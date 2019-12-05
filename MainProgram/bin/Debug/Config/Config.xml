@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Configs SYSTEM "Config.dtd">
+<Configs>
+  <!--여기에 이 이상의 내용을(Log제외) 넣지 마세요. this.GetCustomProperty. this.SetCustomProperty 를 사용 바랍니다.-->
+  <LogConfig LogPath="C:\LOG\WHTM" LogUseDay="30" CPUQuantity="20" ></LogConfig>
+  <UserConfig UserAccount="Adminstrator" UserPassword="1" ></UserConfig>
+  <SiteConfig SiteName="WHTM" SystemMode="FABMode"></SiteConfig>
+  <EtcConfig Title="WHTM-TEG CIM" DispSiteName="WHTM" ProjectName="TEG PROJECT" EqpID="A1TEG200"> </EtcConfig>
+  <DBConfig DBPath="" DBLogPath="" DBName ="" DBLogName=""></DBConfig>
+  <Logger>
+    <LogInfoConfig LogID="LOG1" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="EXCEPTION" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG2" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="UI" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG3" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="SYSTEM" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG4" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="MELSEC" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMddHH" FolderNamingRule="yyyyMMdd" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG5" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="DEBUG" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG6" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="MESSAGE" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG7" LogKey="SYSTEM" LogThreadName="SYSTEM" LogName="METERIAL_DATA" FilePath="[LogPath]" FileExt="log"  DeletePeriod="6" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+  </Logger>
+</Configs>

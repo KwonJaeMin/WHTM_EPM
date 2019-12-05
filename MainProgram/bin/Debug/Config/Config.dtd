@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT Configs	(#PCDATA|LogConfig|DBConfig|UserConfig|SiteConfig|EtcConfig|SpecConfig|Logger)*>
+<!ELEMENT LogConfig (#PCDATA)>
+<!ELEMENT DBConfig (#PCDATA)>
+<!ELEMENT UserConfig (#PCDATA)>
+<!ELEMENT SiteConfig (#PCDATA)>
+<!ELEMENT SiteScanFiles (ScanFile)*>
+<!ELEMENT ScanFile (#PCDATA)>
+<!ELEMENT ScanObjectConfig (ScanObject)*>
+<!ELEMENT ScanObject (#PCDATA)>
+<!ELEMENT Logger (LogInfoConfig)*>
+<!ELEMENT LogInfoConfig (#PCDATA)>
+<!ELEMENT SpecConfig (#PCDATA)>
+<!ELEMENT EtcConfig (#PCDATA)>
+
+<!ATTLIST LogConfig
+  LogPath CDATA #REQUIRED
+  LogUseDay CDATA #REQUIRED
+  CPUQuantity CDATA #REQUIRED
+>
+<!ATTLIST DBConfig
+  DBPath CDATA #REQUIRED
+  DBLogPath CDATA #REQUIRED
+  DBName CDATA #IMPLIED
+  DBLogName CDATA #IMPLIED
+>
+<!ATTLIST UserConfig
+  UserAccount CDATA #REQUIRED
+  UserPassword CDATA #REQUIRED
+>
+<!ATTLIST SiteConfig
+  SiteName CDATA #REQUIRED
+  SystemMode (SimulationMode|FABMode) "SimulationMode"
+>
+<!ATTLIST LogInfoConfig
+  LogID ID #REQUIRED
+  LogKey CDATA #REQUIRED
+  LogThreadName CDATA #IMPLIED
+  LogName CDATA #REQUIRED
+  FilePath CDATA #REQUIRED 	
+  FileExt CDATA #REQUIRED	
+  DeletePeriod CDATA #REQUIRED 	
+  DeletePeriodDateTimeInterval (Year|Month|Day|Hour|Minute|Second) "Day"
+  FileNamingRule (yyyy|yyyyMM|yyyyMMdd|yyyyMMddHH|yyyyMMddHHmm|yyyyMMddHHmmss) "yyyyMMdd"
+  FolderNamingRule (yyyy|yyyy_MM|yyyy_MM_dd|yyyy_MM_dd_HH|yyyyMM|yyyyMM_dd|yyyyMM_dd_HH|yyyyMMdd|yyyyMMdd_HH) "yyyy_MM_dd"
+  LogDelimiter CDATA #IMPLIED
+  FreeSpace (5|10|15|20|25|30|35|40|45|50) "20"
+>
+<!ATTLIST SpecConfig
+  O2 CDATA #REQUIRED
+  H2O CDATA #REQUIRED
+  Pressure CDATA #REQUIRED
+  VSPCount CDATA #REQUIRED
+  VSPTotalCount CDATA #REQUIRED
+>
+
+<!--CVD추가-->
+<!ATTLIST EtcConfig
+  Title CDATA #REQUIRED
+  DispSiteName  CDATA #REQUIRED
+  ProjectName CDATA #REQUIRED
+  EqpID CDATA #REQUIRED
+>
