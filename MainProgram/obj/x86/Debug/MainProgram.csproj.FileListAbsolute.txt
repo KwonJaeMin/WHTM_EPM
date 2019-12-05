@@ -4972,3 +4972,6 @@ D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\MainProgram\obj\x86\Debu
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191205\MainProgram\bin\x86\Debug\MainProgram.exe.config
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191205\MainProgram\obj\x86\Debug\MainProgram.exe
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191205\MainProgram\obj\x86\Debug\MainProgram.pdb
+D:\Git\WHTM_EPM\MainProgram\bin\x86\Debug\MainProgram.exe.config
+D:\Git\WHTM_EPM\MainProgram\obj\x86\Debug\MainProgram.exe
+D:\Git\WHTM_EPM\MainProgram\obj\x86\Debug\MainProgram.pdb

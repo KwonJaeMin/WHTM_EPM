@@ -2727,3 +2727,5 @@ D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.Simulator.Probe\
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.Simulator.Probe\obj\x86\Debug\YANGSYS.Simulator.Probe.csproj.GenerateResource.Cache
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191205\YANGSYS.Simulator.Probe\obj\x86\Debug\YANGSYS.Simulator.Probe.exe
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191205\YANGSYS.Simulator.Probe\obj\x86\Debug\YANGSYS.Simulator.Probe.pdb
+D:\Git\WHTM_EPM\YANGSYS.Simulator.Probe\obj\x86\Debug\YANGSYS.Simulator.Probe.exe
+D:\Git\WHTM_EPM\YANGSYS.Simulator.Probe\obj\x86\Debug\YANGSYS.Simulator.Probe.pdb

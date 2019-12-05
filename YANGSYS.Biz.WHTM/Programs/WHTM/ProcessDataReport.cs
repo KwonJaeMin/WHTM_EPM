@@ -63,7 +63,7 @@ namespace YANGSYS.Biz.Programs
 
 
         //private CScanControlProperties VI_GLASS_DATA_VALUE_FILE_REPORT = null;
-
+        //aaaa
         private string _controlName = "";
         private CProbeControl _component = null;
 
