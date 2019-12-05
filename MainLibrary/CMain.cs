@@ -61,9 +61,7 @@ namespace MainLibrary
     #region //B2 추가
     public delegate void delegateEqpBuzzerOffCommand(bool value);
     #endregion
-    /// <summary>
-    /// tttt
-    /// </summary>
+
 
     public partial class CMain : CMainCore
     {

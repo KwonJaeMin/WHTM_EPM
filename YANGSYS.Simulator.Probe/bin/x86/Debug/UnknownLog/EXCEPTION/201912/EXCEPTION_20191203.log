@@ -1,0 +1,93 @@
+2019-12-03 10:14:46.103	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:47.399	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:49.799	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:50.853	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:51.813	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:52.701	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:54.398	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:14:55.473	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:15:09.089	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 10:15:09.740	SYSTEM	크로스 스레드 작업이 잘못되었습니다. 'comboBox23' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.	   위치: System.Windows.Forms.Control.get_Handle()
+   위치: System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   위치: System.Windows.Forms.ComboBox.get_SelectedIndex()
+   위치: System.Windows.Forms.ComboBox.get_SelectedItem()
+   위치: System.Windows.Forms.ComboBox.get_Text()
+   위치: System.Windows.Forms.Control.set_Text(String value)
+   위치: System.Windows.Forms.ComboBox.set_Text(String value)
+   위치: YANGSYS.Simulator.Probe.FormTest._driver_OnReceivedMessage(String message) 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Simulator.Probe\FormTest.cs:줄 664
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 540
+2019-12-03 15:40:22.307	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 419
+2019-12-03 15:40:23.214	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.CommIF\CommDrv.cs:줄 419

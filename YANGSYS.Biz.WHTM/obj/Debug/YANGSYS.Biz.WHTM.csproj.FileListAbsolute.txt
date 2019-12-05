@@ -1,5 +1,0 @@
-D:\Git\WHTM_EPM\MainProgram\bin\Debug\YANGSYS.Biz.WHTM.dll
-D:\Git\WHTM_EPM\MainProgram\bin\Debug\YANGSYS.Biz.WHTM.pdb
-D:\Git\WHTM_EPM\YANGSYS.Biz.WHTM\obj\Debug\ResolveAssemblyReference.cache
-D:\Git\WHTM_EPM\YANGSYS.Biz.WHTM\obj\Debug\YANGSYS.Biz.WHTM.dll
-D:\Git\WHTM_EPM\YANGSYS.Biz.WHTM\obj\Debug\YANGSYS.Biz.WHTM.pdb

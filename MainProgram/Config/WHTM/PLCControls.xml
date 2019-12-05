@@ -54,14 +54,22 @@
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_9" DeviceType="W" ControlArea="Class3,RV_W_DV9_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_10" DeviceType="W" ControlArea="Class3,RV_W_DV10_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_11" DeviceType="W" ControlArea="Class3,RV_W_DV11_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
-  <!--<PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_12" DeviceType="W" ControlArea="Class3,RV_W_DV12_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_12" DeviceType="W" ControlArea="Class3,RV_W_DV12_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_13" DeviceType="W" ControlArea="Class3,RV_W_DV13_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_14" DeviceType="W" ControlArea="Class3,RV_W_DV14_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_15" DeviceType="W" ControlArea="Class3,RV_W_DV15_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_16" DeviceType="W" ControlArea="Class3,RV_W_DV16_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_17" DeviceType="W" ControlArea="Class3,RV_W_DV17_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_18" DeviceType="W" ControlArea="Class3,RV_W_DV18_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
-  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_19" DeviceType="W" ControlArea="Class3,RV_W_DV19_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>-->
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_19" DeviceType="W" ControlArea="Class3,RV_W_DV19_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_20" DeviceType="W" ControlArea="Class3,RV_W_DV20_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_21" DeviceType="W" ControlArea="Class3,RV_W_DV21_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_22" DeviceType="W" ControlArea="Class3,RV_W_DV22_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_23" DeviceType="W" ControlArea="Class3,RV_W_DV23_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_24" DeviceType="W" ControlArea="Class3,RV_W_DV24_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_25" DeviceType="W" ControlArea="Class3,RV_W_DV25_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_26" DeviceType="W" ControlArea="Class3,RV_W_DV26_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV_DATA_27" DeviceType="W" ControlArea="Class3,RV_W_DV27_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>
   
   
   <!--<PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="OW_DV1" DeviceType="W" ControlArea="Class3,RV_W_DV1_L3ToBC" DataType="String" Display="True" Monitoring ="True" Description=""></PLCControl>

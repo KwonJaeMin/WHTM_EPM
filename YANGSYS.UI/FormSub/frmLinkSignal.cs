@@ -357,7 +357,7 @@ namespace YANGSYS.UI.WHTM.FormSub
                 lblType10StageSendStartOff.BackColor = _messageData.StageList[stageIndex++] == "False" ? Color.Red : lblRobot.BackColor;
                 lblType10StageSendCompleteOn.BackColor = _messageData.StageList[stageIndex] == "True" ? Color.Lime : lblRobot.BackColor;
                 lblType10StageSendCompleteOff.BackColor = _messageData.StageList[stageIndex++] == "False" ? Color.Red : lblRobot.BackColor;
-                lblType10StageExchangePossibleOn.BackColor = _messageData.StageList[stageIndex++] == "False" ? Color.Lime : lblRobot.BackColor;
+                lblType10StageExchangePossibleOn.BackColor = _messageData.StageList[stageIndex++] == "True" ? Color.Lime : lblRobot.BackColor; //20191203
                 stageIndex++;//IB_LINK_UP1_CONVEYER_STATE
                 stageIndex++;//IB_LINK_UP1_SHUTTER_STATE
                 stageIndex++;//IB_LINK_UP1_RESERVED1

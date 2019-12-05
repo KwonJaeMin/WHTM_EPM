@@ -52,6 +52,15 @@ namespace YANGSYS.Biz.Programs
         private CPLCControlProperties OW_DV_DATA_17 = null;
         private CPLCControlProperties OW_DV_DATA_18 = null;
         private CPLCControlProperties OW_DV_DATA_19 = null;
+        private CPLCControlProperties OW_DV_DATA_20 = null;
+        private CPLCControlProperties OW_DV_DATA_21 = null;
+        private CPLCControlProperties OW_DV_DATA_22 = null;
+        private CPLCControlProperties OW_DV_DATA_23 = null;
+        private CPLCControlProperties OW_DV_DATA_24 = null;
+        private CPLCControlProperties OW_DV_DATA_25 = null;
+        private CPLCControlProperties OW_DV_DATA_26 = null;
+        private CPLCControlProperties OW_DV_DATA_27 = null; //20191202
+
 
         //private CScanControlProperties VI_GLASS_DATA_VALUE_FILE_REPORT = null;
 
@@ -86,14 +95,23 @@ namespace YANGSYS.Biz.Programs
             OW_DV_DATA_9 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_9");
             OW_DV_DATA_10 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_10");
             OW_DV_DATA_11 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_11");
-            //OW_DV_DATA_12 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_12");
-            //OW_DV_DATA_13 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_13");
-            //OW_DV_DATA_14 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_14");
-            //OW_DV_DATA_15 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_15");
-            //OW_DV_DATA_16 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_16");
-            //OW_DV_DATA_17 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_17");
-            //OW_DV_DATA_18 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_18");
-            //OW_DV_DATA_19 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_19");
+            OW_DV_DATA_12 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_12");
+            OW_DV_DATA_13 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_13");
+            OW_DV_DATA_14 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_14");
+            OW_DV_DATA_15 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_15");
+            OW_DV_DATA_16 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_16");
+            OW_DV_DATA_17 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_17");
+            OW_DV_DATA_18 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_18");
+            OW_DV_DATA_19 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_19");
+            OW_DV_DATA_20 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_20"); //20191202
+            OW_DV_DATA_21 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_21");
+            OW_DV_DATA_22 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_22");
+            OW_DV_DATA_23 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_23");
+            OW_DV_DATA_24 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_24");
+            OW_DV_DATA_25 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_25");
+            OW_DV_DATA_26 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_26");
+            OW_DV_DATA_27 = _main.PLCCONTEROLS.GetProperty(_controlName, "OW_DV_DATA_27");
+          
 
             //VI_GLASS_DATA_VALUE_FILE_REPORT = _main._YANSYS_SCANCONTEROLS.GetProperty(_controlName, "VI_GLASS_DATA_VALUE_FILE_REPORT");
 
@@ -248,14 +266,23 @@ namespace YANGSYS.Biz.Programs
                 List<int> DV_List_Data9 = new List<int>();
                 List<int> DV_List_Data10 = new List<int>();
                 List<int> DV_List_Data11 = new List<int>();
-                //List<int> DV_List_Data12 = new List<int>();
-                //List<int> DV_List_Data13 = new List<int>();
-                //List<int> DV_List_Data14 = new List<int>();
-                //List<int> DV_List_Data15 = new List<int>();
-                //List<int> DV_List_Data16 = new List<int>();
-                //List<int> DV_List_Data17 = new List<int>();
-                //List<int> DV_List_Data18 = new List<int>();
-                //List<int> DV_List_Data19 = new List<int>();
+                List<int> DV_List_Data12 = new List<int>();
+                List<int> DV_List_Data13 = new List<int>();
+                List<int> DV_List_Data14 = new List<int>();
+                List<int> DV_List_Data15 = new List<int>();
+                List<int> DV_List_Data16 = new List<int>();
+                List<int> DV_List_Data17 = new List<int>();
+                List<int> DV_List_Data18 = new List<int>();
+                List<int> DV_List_Data19 = new List<int>();
+                List<int> DV_List_Data20 = new List<int>(); //20191202
+                List<int> DV_List_Data21 = new List<int>();
+                List<int> DV_List_Data22 = new List<int>();
+                List<int> DV_List_Data23 = new List<int>();
+                List<int> DV_List_Data24 = new List<int>();
+                List<int> DV_List_Data25 = new List<int>();
+                List<int> DV_List_Data26 = new List<int>();
+                List<int> DV_List_Data27 = new List<int>();
+        
 
                 if (_isManualMode)
                 {
@@ -394,63 +421,185 @@ namespace YANGSYS.Biz.Programs
                     List<string> DvData9 = new List<string>();
                     List<string> DvData10 = new List<string>();
                     List<string> DvData11 = new List<string>();
-                    //List<string> DvData12 = new List<string>();
-                    //List<string> DvData13 = new List<string>();
-                    //List<string> DvData14 = new List<string>();
-                    //List<string> DvData15 = new List<string>();
-                    //List<string> DvData16 = new List<string>();
-                    //List<string> DvData17 = new List<string>();
-                    //List<string> DvData18 = new List<string>();
-                    //List<string> DvData19 = new List<string>();
+                    List<string> DvData12 = new List<string>();
+                    List<string> DvData13 = new List<string>();
+                    List<string> DvData14 = new List<string>();
+                    List<string> DvData15 = new List<string>();
+                    List<string> DvData16 = new List<string>();
+                    List<string> DvData17 = new List<string>();
+                    List<string> DvData18 = new List<string>();
+                    List<string> DvData19 = new List<string>();
+                    List<string> DvData20 = new List<string>(); //20191202
+                    List<string> DvData21 = new List<string>();
+                    List<string> DvData22 = new List<string>();
+                    List<string> DvData23 = new List<string>();
+                    List<string> DvData24 = new List<string>();
+                    List<string> DvData25 = new List<string>();
+                    List<string> DvData26 = new List<string>();
+                    List<string> DvData27 = new List<string>();
 
 
-                    for (int i = 0; i < DvWords.Count; i++)
+                    //for (int i = 0; i < DvWords.Count; i++)
+                    //{
+                    //    if (i >= 0 && i < 236)
+                    //    {
+                    //        DvData1.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 236 && i < 464)
+                    //    {
+                    //        DvData2.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 464 && i < 730)
+                    //    {
+                    //        DvData3.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 730 && i < 996)
+                    //    {
+                    //        DvData4.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 996 && i < 1224)
+                    //    {
+                    //        DvData5.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 1224 && i < 1490)
+                    //    {
+                    //        DvData6.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 1490 && i < 1680)
+                    //    {
+                    //        DvData7.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 1680 && i < 1946)
+                    //    {
+                    //        DvData8.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 1946 && i < 2174)
+                    //    {
+                    //        DvData9.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 2174 && i < 2402)
+                    //    {
+                    //        DvData10.Add(DvWords[i]);
+                    //    }
+                    //    else if (i >= 2402 && i <= 2592)
+                    //    {
+                    //        DvData11.Add(DvWords[i]);
+                    //    }
+
+                    //}
+
+
+                    for (int i = 0; i < DvWords.Count; i++) //20191202
                     {
-                        if (i >= 0 && i < 236)
+                        if (i >= 0 && i < 238)
                         {
                             DvData1.Add(DvWords[i]);
                         }
-                        else if (i >= 236 && i < 464)
+                        else if (i >= 238 && i < 488)
                         {
                             DvData2.Add(DvWords[i]);
                         }
-                        else if (i >= 464 && i < 730)
+                        else if (i >= 488 && i < 738)
                         {
                             DvData3.Add(DvWords[i]);
                         }
-                        else if (i >= 730 && i < 996)
+                        else if (i >= 738 && i < 988)
                         {
                             DvData4.Add(DvWords[i]);
                         }
-                        else if (i >= 996 && i < 1224)
+                        else if (i >= 998 && i < 1238)
                         {
                             DvData5.Add(DvWords[i]);
                         }
-                        else if (i >= 1224 && i < 1490)
+                        else if (i >= 1238 && i < 1488)
                         {
                             DvData6.Add(DvWords[i]);
                         }
-                        else if (i >= 1490 && i < 1680)
+                        else if (i >= 1488 && i < 1738)
                         {
                             DvData7.Add(DvWords[i]);
                         }
-                        else if (i >= 1680 && i < 1946)
+                        else if (i >= 1738 && i < 1988)
                         {
                             DvData8.Add(DvWords[i]);
                         }
-                        else if (i >= 1946 && i < 2174)
+                        else if (i >= 1988 && i < 2238)
                         {
                             DvData9.Add(DvWords[i]);
                         }
-                        else if (i >= 2174 && i < 2402)
+                        else if (i >= 2238 && i < 2488)
                         {
                             DvData10.Add(DvWords[i]);
                         }
-                        else if (i >= 2402 && i <= 2592)
+                        else if (i >= 2488 && i < 2738)
                         {
-                            DvData11.Add(DvWords[i]);
+                            DvData11.Add(DvWords[i]);                           
+                        }                    
+                        else if (i >= 2488 && i < 2988)
+                        {
+                            DvData12.Add(DvWords[i]);
                         }
-                        
+                        else if (i >= 2488 && i < 3238)
+                        {
+                            DvData13.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 3488)
+                        {
+                            DvData14.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 3738)
+                        {
+                            DvData15.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 3988)
+                        {
+                            DvData16.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 4238)
+                        {
+                            DvData17.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 4488)
+                        {
+                            DvData18.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 4738)
+                        {
+                            DvData19.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 4988)
+                        {
+                            DvData20.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 5238)
+                        {
+                            DvData21.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 5488)
+                        {
+                            DvData22.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 5738)
+                        {
+                            DvData23.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 5988)
+                        {
+                            DvData24.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 6238)
+                        {
+                            DvData25.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 6488)
+                        {
+                            DvData26.Add(DvWords[i]);
+                        }
+                        else if (i >= 2488 && i < 6594)
+                        {
+                            DvData27.Add(DvWords[i]);
+                        }
+
                     }
 
 
@@ -465,14 +614,22 @@ namespace YANGSYS.Biz.Programs
                     DV_List_Data9 = CGlassDataProperties.ConvertPLC_DV_Data(DvData9, 10, false);
                     DV_List_Data10 = CGlassDataProperties.ConvertPLC_DV_Data(DvData10, 10, false);
                     DV_List_Data11 = CGlassDataProperties.ConvertPLC_DV_Data(DvData11, 10, false);
-                    //DV_List_Data12 = CGlassDataProperties.ConvertPLC_DV_Data(DvData12, 10, false);
-                    //DV_List_Data13 = CGlassDataProperties.ConvertPLC_DV_Data(DvData13, 10, false);
-                    //DV_List_Data14 = CGlassDataProperties.ConvertPLC_DV_Data(DvData14, 10, false);
-                    //DV_List_Data15 = CGlassDataProperties.ConvertPLC_DV_Data(DvData15, 10, false);
-                    //DV_List_Data16 = CGlassDataProperties.ConvertPLC_DV_Data(DvData16, 10, false);
-                    //DV_List_Data17 = CGlassDataProperties.ConvertPLC_DV_Data(DvData17, 10, false);
-                    //DV_List_Data18 = CGlassDataProperties.ConvertPLC_DV_Data(DvData18, 10, false);
-                    //DV_List_Data19 = CGlassDataProperties.ConvertPLC_DV_Data(DvData19, 10, false);
+                    DV_List_Data12 = CGlassDataProperties.ConvertPLC_DV_Data(DvData12, 10, false);
+                    DV_List_Data13 = CGlassDataProperties.ConvertPLC_DV_Data(DvData13, 10, false);
+                    DV_List_Data14 = CGlassDataProperties.ConvertPLC_DV_Data(DvData14, 10, false);
+                    DV_List_Data15 = CGlassDataProperties.ConvertPLC_DV_Data(DvData15, 10, false);
+                    DV_List_Data16 = CGlassDataProperties.ConvertPLC_DV_Data(DvData16, 10, false);
+                    DV_List_Data17 = CGlassDataProperties.ConvertPLC_DV_Data(DvData17, 10, false);
+                    DV_List_Data18 = CGlassDataProperties.ConvertPLC_DV_Data(DvData18, 10, false);
+                    DV_List_Data19 = CGlassDataProperties.ConvertPLC_DV_Data(DvData19, 10, false);
+                    DV_List_Data20 = CGlassDataProperties.ConvertPLC_DV_Data(DvData20, 10, false); //20191202
+                    DV_List_Data21 = CGlassDataProperties.ConvertPLC_DV_Data(DvData21, 10, false);
+                    DV_List_Data22 = CGlassDataProperties.ConvertPLC_DV_Data(DvData22, 10, false);
+                    DV_List_Data23 = CGlassDataProperties.ConvertPLC_DV_Data(DvData23, 10, false);
+                    DV_List_Data24 = CGlassDataProperties.ConvertPLC_DV_Data(DvData24, 10, false);
+                    DV_List_Data25 = CGlassDataProperties.ConvertPLC_DV_Data(DvData25, 10, false);
+                    DV_List_Data26 = CGlassDataProperties.ConvertPLC_DV_Data(DvData26, 10, false);
+                    DV_List_Data27 = CGlassDataProperties.ConvertPLC_DV_Data(DvData27, 10, false); 
 
                 }
 
@@ -505,14 +662,22 @@ namespace YANGSYS.Biz.Programs
                 _main.MelsecNetMultiWordWrite(OW_DV_DATA_9, DV_List_Data9);
                 _main.MelsecNetMultiWordWrite(OW_DV_DATA_10, DV_List_Data10);
                 _main.MelsecNetMultiWordWrite(OW_DV_DATA_11, DV_List_Data11);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_12, DV_List_Data12);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_13, DV_List_Data13);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_14, DV_List_Data14);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_15, DV_List_Data15);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_16, DV_List_Data16);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_17, DV_List_Data17);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_18, DV_List_Data18);
-                //_main.MelsecNetMultiWordWrite(OW_DV_DATA_19, DV_List_Data19);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_12, DV_List_Data12);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_13, DV_List_Data13);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_14, DV_List_Data14);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_15, DV_List_Data15);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_16, DV_List_Data16);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_17, DV_List_Data17);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_18, DV_List_Data18);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_19, DV_List_Data19);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_20, DV_List_Data20);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_21, DV_List_Data21);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_22, DV_List_Data22);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_23, DV_List_Data23);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_24, DV_List_Data24);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_25, DV_List_Data25);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_26, DV_List_Data26);
+                _main.MelsecNetMultiWordWrite(OW_DV_DATA_27, DV_List_Data27);
 
                 //DateTime mTime1 = DateTime.Now;
 
