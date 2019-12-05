@@ -339,3 +339,8 @@ D:\우한\10.소스\20191202\YANGSYS CIM_20191105\MainProgram\bin\x86\Debug\YANG
 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Manager\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Manager\obj\x86\Debug\YANGSYS.Manager.dll
 D:\우한\10.소스\20191202\YANGSYS CIM_20191105\YANGSYS.Manager\obj\x86\Debug\YANGSYS.Manager.pdb
+D:\K_Project\Git\WHTM_EPM\MainProgram\bin\x86\Debug\YANGSYS.Manager.dll
+D:\K_Project\Git\WHTM_EPM\MainProgram\bin\x86\Debug\YANGSYS.Manager.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\Git\WHTM_EPM\YANGSYS.Manager\obj\x86\Debug\YANGSYS.Manager.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.Manager\obj\x86\Debug\YANGSYS.Manager.pdb

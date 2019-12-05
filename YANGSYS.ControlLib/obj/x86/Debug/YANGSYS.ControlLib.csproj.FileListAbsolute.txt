@@ -1545,3 +1545,20 @@ D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.ControlLib\bin\x
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.ControlLib\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.ControlLib\obj\x86\Debug\YANGSYS.ControlLib.dll
 D:\우한천마\10.소스\20191205\YANGSYS CIM_20191202\YANGSYS.ControlLib\obj\x86\Debug\YANGSYS.ControlLib.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\YANGSYS.ControlLib.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\YANGSYS.ControlLib.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Component.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.DataConvert.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.File.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.DataConvert.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Component.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\bin\x86\Debug\SOFD.File.pdb
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\obj\x86\Debug\YANGSYS.ControlLib.dll
+D:\K_Project\Git\WHTM_EPM\YANGSYS.ControlLib\obj\x86\Debug\YANGSYS.ControlLib.pdb
