@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8128866B-8D67-43DB-8696-8E8234049A7D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MainLibrary</RootNamespace>
+    <AssemblyName>MainLibrary</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SmartDevice, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SmartDevice.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.BasicCore, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.BasicCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Component, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Component.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Core, Version=2.2.6108.32183, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.DataBase, Version=2.2.6108.16878, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.DataBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.DataConvert, Version=2.2.6108.32183, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.DataConvert.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Driver, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.File, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.File.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Global, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Logger, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Properties, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Properties.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Global\ABizLogic.cs" />
+    <Compile Include="LogFormat\CAPDLogFormat.cs" />
+    <Compile Include="LogFormat\CLinkSignalFormat.cs" />
+    <Compile Include="LogFormat\CMaterialDataLogFormat.cs" />
+    <Compile Include="Manager\CRecipeManager.cs" />
+    <Compile Include="CMain.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="Global\CErrorReason.cs" />
+    <Compile Include="Global\CFunctionUtils.cs" />
+    <Compile Include="LogFormat\CAlarmLogFormat.cs" />
+    <Compile Include="LogFormat\CHostLogFormat.cs" />
+    <Compile Include="LogFormat\CLoaderLogFormat.cs" />
+    <Compile Include="LogFormat\CMelsecLogFormat.cs" />
+    <Compile Include="LogFormat\CStatusLogFormat.cs" />
+    <Compile Include="Manager\CDataManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Manager\ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Property\CAlarmProperties.cs" />
+    <Compile Include="Property\CGlassDataProperties.cs" />
+    <Compile Include="Property\CLotDataProperties.cs" />
+    <Compile Include="Property\CRecipeDataProperties.cs" />
+    <Compile Include="Property\CSystemConfigProperties.cs" />
+    <Compile Include="Utility\Code128.cs" />
+    <Compile Include="Utility\PLCByteOrderConverter.cs" />
+    <Compile Include="Utility\PLCDataConverter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YANGSYS.CommIF\YANGSYS.CommDrv.csproj">
+      <Project>{102B98EA-2AF2-4C62-A11D-DFC00E838F2A}</Project>
+      <Name>YANGSYS.CommDrv</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YANGSYS.ControlLib\YANGSYS.ControlLib.csproj">
+      <Project>{63F72FD0-F514-4A1D-BD91-621A786788F4}</Project>
+      <Name>YANGSYS.ControlLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

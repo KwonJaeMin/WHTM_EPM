@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomProperties>
+  <Section Name="YESDRV">
+    <Property Key="CONNECTION_STRING" Value="DriverName=SIMULATOR,Mode=Server,RemoteIP=127.0.0.1,RemotePort=7000,LocalIP=127.0.0.1,LocalPort=7000" Description="양전자 SYSTEM TCP/IP 접속" />
+  </Section>
+</CustomProperties>

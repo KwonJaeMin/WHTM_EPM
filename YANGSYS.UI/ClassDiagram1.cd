@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Widgets.ucCimStatus" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucCimStatus.CCimStatusData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucCimStatus.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <InheritanceLine Type="SOFD.Gui.Widget.UCBaseObject" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="2.691" />
+        <Point X="6.25" Y="4.346" />
+        <Point X="7.25" Y="4.346" />
+        <Point X="7.25" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABEACAAAAAEAACQAAAiAAC9AAABAggSAAAAIAA=</HashCode>
+      <FileName>ucCimStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucCooling" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucCooling.CCoolingData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucCooling.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <InheritanceLine Type="SOFD.Gui.Widget.UCBaseObject" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="2.691" />
+        <Point X="6.25" Y="3.125" />
+        <Point X="5.25" Y="3.125" />
+        <Point X="5.25" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAECEQAAAAAACAAAACgAAAAAAAAggSAAAAoAA=</HashCode>
+      <FileName>ucCooling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucEQP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucEQP.CEQPStatusData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucEQP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAICDABSAUAAQKAgOAEgACgAAAAMQAQAwSAhAQIAQ=</HashCode>
+      <FileName>ucEQP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucIndexStatus" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucIndexStatus.CIndexStatusData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucIndexStatus.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAABAAAACAAAACADA0AQABAAgCAAAIIgA=</HashCode>
+      <FileName>ucIndexStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucPort" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucPort.CportStatusData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucPort.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YAAAAwACECAABQAACACAAADqggAAAACAAAgCAgICMAA=</HashCode>
+      <FileName>ucPort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucPortInformation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAACAAAACBCBQIAAJAokKAAAAIAA=</HashCode>
+      <FileName>ucPortInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucRcvHostData" BaseTypeListCollapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Widgets.ucRcvHostData.CRcvHostData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucRcvHostData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAAACAAAACAACAAAAAAAgCAAAAIAA=</HashCode>
+      <FileName>ucRcvHostData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widgets.ucRobotStatus" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAECIAEAEAAACAAQACAAABAAABAAgCAAACIAA=</HashCode>
+      <FileName>ucRobotStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOFD.Gui.Widget.UCBaseObject" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E23B9512-974D-4EF4-ABC8-D32A344F4F7F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YANGSYS.Biz.WHTM</RootNamespace>
+    <AssemblyName>YANGSYS.Biz.WHTM</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\MainProgram\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\MainProgram\bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SmartDevice, Version=1.0.0.2, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SmartDevice.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.BasicCore, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.BasicCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Component, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Component.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Core, Version=2.2.6108.32183, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.DataBase, Version=2.2.6108.16878, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.DataBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Driver, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.File, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.File.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Global, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Logger, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Properties, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Properties.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CBiz.cs" />
+    <Compile Include="CommandHandler\CMenuCommand.cs" />
+    <Compile Include="CommandHandler\CShutdownCommand.cs" />
+    <Compile Include="CommandHandler\CTitleCommand.cs" />
+    <Compile Include="CommandHandler\CRequestGroupCommand.cs" />
+    <Compile Include="Programs\WHTM\CycleProgram_WHTM.cs" />
+    <Compile Include="Programs\WHTM\PPIDRecipeMapChangeCommand.cs" />
+    <Compile Include="Programs\WHTM\MachineHeartbeatSignal.cs" />
+    <Compile Include="Programs\WHTM\DateTImeSetCommand.cs" />
+    <Compile Include="Programs\WHTM\OperatorCallCommand.cs" />
+    <Compile Include="Programs\WHTM\LDBuzzONCommand.cs" />
+    <Compile Include="Programs\WHTM\EquipmentModeChangeCommand.cs" />
+    <Compile Include="Programs\WHTM\PPIDRecipeMapRequestCommand.cs" />
+    <Compile Include="Programs\WHTM\RecipeRequestCommand.cs" />
+    <Compile Include="Programs\WHTM\EquipmentAutoModeNotification.cs" />
+    <Compile Include="Programs\WHTM\CIMConnectionModeNotification.cs" />
+    <Compile Include="Programs\WHTM\EqpStatusReport.cs" />
+    <Compile Include="Programs\WHTM\AlarmSetStatusReport.cs" />
+    <Compile Include="Programs\WHTM\AlarmResetStatusReport.cs" />
+    <Compile Include="Programs\WHTM\EquipmentModeChangeReport.cs" />
+    <Compile Include="Programs\WHTM\PPIDRecipeMapReport.cs" />
+    <Compile Include="Programs\WHTM\RecipeChangeReport.cs" />
+    <Compile Include="Programs\WHTM\CurrentPPIDRecipeIdReport.cs" />
+    <Compile Include="Programs\WHTM\RecipeChangeAuthorizarion.cs" />
+    <Compile Include="Programs\WHTM\GlassDataRequest_WHTM.cs" />
+    <Compile Include="Programs\WHTM\ProcessDataReport.cs" />
+    <Compile Include="Programs\WHTM\ForwardSentOutJobReport.cs" />
+    <Compile Include="Programs\WHTM\ForwardReceivedJobReport.cs" />
+    <Compile Include="Programs\WHTM\RemovedJobReport.cs" />
+    <Compile Include="Programs\WHTM\JobJudgeChange.cs" />
+    <Compile Include="Programs\WHTM\SV_DataReport.cs" />
+    <Compile Include="Programs\WHTM\VCRJobDataReport.cs" />
+    <Compile Include="Programs\WHTM\TrackingJobReport.cs" />
+    <Compile Include="Programs\YANGSYSMessageHandler.cs" />
+    <Compile Include="Programs\WHTM\TerminalTextCommand.cs" />
+    <Compile Include="Programs\WHTM\CLinkSignalType2_WHTM.cs" />
+    <Compile Include="Programs\WHTM\CLinkSignalType11_WHTM.cs" />
+    <Compile Include="Programs\WHTM\CLinkSignalType6_WHTM.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MainLibrary\MainLibrary.csproj">
+      <Project>{8128866B-8D67-43DB-8696-8E8234049A7D}</Project>
+      <Name>MainLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YANGSYS.ControlLib\YANGSYS.ControlLib.csproj">
+      <Project>{63F72FD0-F514-4A1D-BD91-621A786788F4}</Project>
+      <Name>YANGSYS.ControlLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

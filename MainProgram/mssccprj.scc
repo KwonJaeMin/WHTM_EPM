@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[MainProgram.csproj]
+SCC_Aux_Path = "\\192.168.123.30\SourceSafeDB"
+SCC_Project_Name = "$/BOE.B2.CureOven.root/BOE.B2.CureOven/MainProgram", WKFBAAAA

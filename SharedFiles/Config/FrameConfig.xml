@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FrameList>
+  <Category Name="FrameList">
+    <Control Name="Main">
+        <Assembly>SOFD.Gui</Assembly>
+        <Type>SOFD.Gui.Widget.UCBaseMain</Type>
+        <Dock>FILL</Dock>
+        <VIEWLOC>MAIN</VIEWLOC>
+    </Control>
+    <Control Name="Navigation">
+      <Assembly>SOFD.Gui</Assembly>
+      <Type>SOFD.Gui.Widget.UCBaseNavigation</Type>
+      <Dock>BOTTOM</Dock>
+      <VIEWLOC>NAVIGATION</VIEWLOC>
+    </Control>
+    <Control Name="Title">
+      <Assembly>SOFD.Gui</Assembly>
+      <Type>SOFD.Gui.Widget.UCBaseTitle</Type>
+      <Dock>TOP</Dock>
+      <VIEWLOC>TITLE</VIEWLOC>
+    </Control>
+    <Control Name="System">
+      <Assembly>SOFD.Gui</Assembly>
+      <Type>SOFD.Gui.Widget.UCBaseSystem</Type>
+      <Dock>FILL</Dock>
+      <VIEWLOC>MAIN</VIEWLOC>
+    </Control>
+  </Category>
+</FrameList>

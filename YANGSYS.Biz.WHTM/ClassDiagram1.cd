@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YANGSYS.Biz.CBiz" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="3.5" />
+    <NestedTypes>
+      <Delegate Name="YANGSYS.Biz.CBiz.CheckConfirmHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CBiz.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgDAAAAIBAACAAAAEAAAAAAAAAAAAAACCAAAAAA=</HashCode>
+      <FileName>CBiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.CommandHandler.CMenuGroupCommand" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAAAAAAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>CommandHandler\CMenuCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.CommandHandler.CRequestGroupCommand" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAAAAAAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>CommandHandler\CRequestGroupCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.CommandHandler.CShutdownCommand" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAAAAAAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>CommandHandler\CShutdownCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.CommandHandler.CTitleGroupCommand" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAAAAAAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>CommandHandler\CTitleCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.MachineHeartbeatSignal" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAAACgCAAAAAABCIQQAAAAABEACUECggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\MachineHeartbeatSignal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.AlarmResetStatusReport" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAyAAAAAAAAgCAAEAIBACIwQAAAACBEIKAEKgghQAgA=</HashCode>
+      <FileName>Programs\WHTM\AlarmResetStatusReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.AlarmSetStatusReport" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAyAAAAAAAAgCAAEAIBACIwQAAAACBEIKAEKgghQAgA=</HashCode>
+      <FileName>Programs\WHTM\AlarmSetStatusReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CIMConnectionModeNotification" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAgCAAAAAAgCIQQAAAACBEACEEDggAAQAA=</HashCode>
+      <FileName>Programs\WHTM\CIMConnectionModeNotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CLinkSignalType2_WHTM" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KRXt6xVbDBcgL0NEyQ8W+9ZYgKhCKjH2TbmGx6BTiLA=</HashCode>
+      <FileName>Programs\WHTM\CLinkSignalType2_WHTM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CLinkSignalType11_WHTM" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KRXt6xVbDBcgL0NEyQ8W+9ZYgKhCKjH2TbmGx6BTiLA=</HashCode>
+      <FileName>Programs\WHTM\CLinkSignalType11_WHTM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CLinkSignalType6_WHTM" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KRXt6xVbDBcgL0NEyQ8W+9ZYgKhCKjH2TbmGx6BTiLA=</HashCode>
+      <FileName>Programs\WHTM\CLinkSignalType6_WHTM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CurrentPPIDRecipeIdReport" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAKAgCAAAAQAACIQQAAAACBEACAEGggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\CurrentPPIDRecipeIdReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.CycleProgram_WHTM" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KRXt6xVbDBehL0NESQ4X69ZYhKhCIjH2TfmHw6BLiJA=</HashCode>
+      <FileName>Programs\WHTM\CycleProgram_WHTM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.DateTImeSetCommand" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAogCAAAAEAACIQQAAAAQBEACAECggACBAA=</HashCode>
+      <FileName>Programs\WHTM\DateTImeSetCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.EqpStatusReport" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgCAAgAAAACKYUAQCACBEACAECggIAAAA=</HashCode>
+      <FileName>Programs\WHTM\EqpStatusReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.EquipmentAutoModeNotification" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAApCAAAAAAACIQQgAAAABEACQECggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\EquipmentAutoModeNotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.EquipmentModeChangeCommand" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAACgCAAAAgAACIRQAAAFQBEATAECgoQABEA=</HashCode>
+      <FileName>Programs\WHTM\EquipmentModeChangeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.EquipmentModeChangeReport" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAAAgCCAAAAAACIRQAAAECBEATAECggEAAEA=</HashCode>
+      <FileName>Programs\WHTM\EquipmentModeChangeReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.ForwardReceivedJobReport" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAwgCAAAAAAACIRQAAAACBEACAEDsgAAAAA=</HashCode>
+      <FileName>Programs\WHTM\ForwardReceivedJobReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.ForwardSentOutJobReport" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAAAAgCAQAAAAACIQQAAAgCBEACgECggAAABg=</HashCode>
+      <FileName>Programs\WHTM\ForwardSentOutJobReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.GlassDataRequest_WHTM" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAASAAAEAAAgCABAAAACCIQYAAAACBEACEECggAQAAg=</HashCode>
+      <FileName>Programs\WHTM\GlassDataRequest_WHTM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.JobJudgeChange" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAgCQEAAAAEiIQQAAAACBEACAECggAQAAA=</HashCode>
+      <FileName>Programs\WHTM\JobJudgeChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.LDBuzzONCommand" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAgAAAAAgCAAgAAAACIUQAAAAQBEACgECgggwBAA=</HashCode>
+      <FileName>Programs\WHTM\LDBuzzONCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.OperatorCallCommand" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgCAAAgAQACIQQAABAQBEACgECghAABAA=</HashCode>
+      <FileName>Programs\WHTM\OperatorCallCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.PPIDRecipeMapChangeCommand" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAiCAAAgCAAAAAgACIQQAwAAQBUACAGKkgAABAA=</HashCode>
+      <FileName>Programs\WHTM\PPIDRecipeMapChangeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.PPIDRecipeMapReport" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAgAAgAAAAgGAAAAAgACIQQAAAICBEACAGCkgACAAA=</HashCode>
+      <FileName>Programs\WHTM\PPIDRecipeMapReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.PPIDRecipeMapRequestCommand" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAACAABgCAAAAAAACIQQAAAAQBMACAECggAABAA=</HashCode>
+      <FileName>Programs\WHTM\PPIDRecipeMapRequestCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.ProcessDataReport" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAIACAAAAAgCAAAAAAACIQRAAAEOBEADAECggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\ProcessDataReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.RecipeChangeAuthorizarion" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAABAgCABAAkAACIQQAAEADBFAKAkCggAQCAA=</HashCode>
+      <FileName>Programs\WHTM\RecipeChangeAuthorizarion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.RecipeChangeReport" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAACAABAgCAAAAAAAGISQAAAADBEACAEiggAEAAA=</HashCode>
+      <FileName>Programs\WHTM\RecipeChangeReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.RecipeRequestCommand" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAoIgCAAAAAAACIRUAAAEQBEATAECggCABEA=</HashCode>
+      <FileName>Programs\WHTM\RecipeRequestCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.RemovedJobReport" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAABAgCAAAAAAACIQQAAAACBEACAECggAAgCA=</HashCode>
+      <FileName>Programs\WHTM\RemovedJobReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.TerminalTextCommand" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgCAAAkAAACIQQAABEQBEACgECghAABAA=</HashCode>
+      <FileName>Programs\WHTM\TerminalTextCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.TrackingJobReport" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAAIgCAAAAAAACIQQAAAACBUACAECggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\TrackingJobReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.VCRJobDataReport" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQQAAAAAEgCIAEUCIISIQQIAAACBEACAECggAAAAA=</HashCode>
+      <FileName>Programs\WHTM\VCRJobDataReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.YANGSYSInitProgram" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAaBJIgAAAmiQCIgZAiHIQQBgEUBdlBGEEChikIIAA=</HashCode>
+      <FileName>Programs\YANGSYSInitProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YANGSYS.Biz.Programs.YANGSYSMessageHandler" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAaBJIgAAAmiQCIgZAiHIQQBgEUBdlBGEEChikYIAA=</HashCode>
+      <FileName>Programs\YANGSYSMessageHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>

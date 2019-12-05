@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{471E5ED7-74B1-488A-ACD8-7678050668DE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YANGSYS.UI.WHTM</RootNamespace>
+    <AssemblyName>YANGSYS.UI.WHTM</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\MainProgram\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\MainProgram\bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SOFD.Component, Version=2.2.6109.24792, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Component.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.DataBase, Version=2.2.6109.24791, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.DataBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.File, Version=2.2.6180.24469, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.File.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Global, Version=2.2.6109.24792, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Gui, Version=2.2.6108.32183, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Gui.dll</HintPath>
+    </Reference>
+    <Reference Include="SOFD.Logger, Version=2.2.6108.32182, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SharedFiles\SOFD.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmCIMMessageDIsplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmCIMMessageDIsplay.designer.cs">
+      <DependentUpon>frmCIMMessageDIsplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmConfig.designer.cs">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmInlineMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmInlineMode.designer.cs">
+      <DependentUpon>frmInlineMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmScrap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmScrap.Designer.cs">
+      <DependentUpon>frmScrap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmAlarmDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmAlarmDisplay.Designer.cs">
+      <DependentUpon>frmAlarmDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmAutoRecipeMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmAutoRecipeMode.Designer.cs">
+      <DependentUpon>frmAutoRecipeMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmCaution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmCaution.Designer.cs">
+      <DependentUpon>frmCaution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmConfirm.designer.cs">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmErrorDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmErrorDisplay.Designer.cs">
+      <DependentUpon>frmErrorDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmLinkSignal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmLinkSignal.Designer.cs">
+      <DependentUpon>frmLinkSignal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmAlarm.Designer.cs">
+      <DependentUpon>frmAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmUIMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmUIMode.Designer.cs">
+      <DependentUpon>frmUIMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmCIMMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmCIMMode.Designer.cs">
+      <DependentUpon>frmCIMMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmVCRMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmVCRMode.Designer.cs">
+      <DependentUpon>frmVCRMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmGlassDataWHTM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmGlassDataWHTM.Designer.cs">
+      <DependentUpon>frmGlassDataWHTM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmEqpMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmEqpMode.Designer.cs">
+      <DependentUpon>frmEqpMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmExchangeMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmExchangeMode.Designer.cs">
+      <DependentUpon>frmExchangeMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucLog.Designer.cs">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucMain.Designer.cs">
+      <DependentUpon>ucMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucMenu.Designer.cs">
+      <DependentUpon>ucMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucMonitorPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucMonitorPanel.Designer.cs">
+      <DependentUpon>ucMonitorPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucNavigation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucNavigation.Designer.cs">
+      <DependentUpon>ucNavigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucSystem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucSystem.Designer.cs">
+      <DependentUpon>ucSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucTitle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucTitle.Designer.cs">
+      <DependentUpon>ucTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSub\frmGlassData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSub\frmGlassData.Designer.cs">
+      <DependentUpon>frmGlassData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogFormat\CUILogFormat.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DependentUpon>Resources.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ucAlignStage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAlignStage.Designer.cs">
+      <DependentUpon>ucAlignStage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucButtonPower.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucButtonPower.Designer.cs">
+      <DependentUpon>ucButtonPower.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucButtonText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucButtonText.Designer.cs">
+      <DependentUpon>ucButtonText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucButtonTop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucButtonTop.Designer.cs">
+      <DependentUpon>ucButtonTop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCimStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCimStatus.Designer.cs">
+      <DependentUpon>ucCimStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucControlPanel.Designer.cs">
+      <DependentUpon>ucControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCooling.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCooling.Designer.cs">
+      <DependentUpon>ucCooling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCurGlassData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCurGlassData.designer.cs">
+      <DependentUpon>ucCurGlassData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEQP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEQP.Designer.cs">
+      <DependentUpon>ucEQP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucGlassData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassData.Designer.cs">
+      <DependentUpon>ucGlassData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucGlassDataPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassDataPanel.designer.cs">
+      <DependentUpon>ucGlassDataPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucGlassDataSingle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassDataSingle.Designer.cs">
+      <DependentUpon>ucGlassDataSingle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucGlassDataTransfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassDataTransfer.Designer.cs">
+      <DependentUpon>ucGlassDataTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucGlassDataView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassDataView.Designer.cs">
+      <DependentUpon>ucGlassDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucIndexStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucIndexStatus.Designer.cs">
+      <DependentUpon>ucIndexStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucLinkSignalPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucLinkSignalPanel.Designer.cs">
+      <DependentUpon>ucLinkSignalPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucLogWriteTreeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLogWriteTreeView.Designer.cs">
+      <DependentUpon>ucLogWriteTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPort.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPort.Designer.cs">
+      <DependentUpon>ucPort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPortInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPortInformation.Designer.cs">
+      <DependentUpon>ucPortInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPortSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPortSetting.Designer.cs">
+      <DependentUpon>ucPortSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRcvHostData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRcvHostData.Designer.cs">
+      <DependentUpon>ucRcvHostData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\Main\ucRecipePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame\Main\ucRecipePanel.Designer.cs">
+      <DependentUpon>ucRecipePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRecipeStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRecipeStatus.Designer.cs">
+      <DependentUpon>ucRecipeStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRequestProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRequestProgressBar.Designer.cs">
+      <DependentUpon>ucRequestProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRobotStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRobotStatus.Designer.cs">
+      <DependentUpon>ucRobotStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucGlassDataWHTM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGlassDataWHTM.Designer.cs">
+      <DependentUpon>ucGlassDataWHTM.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormSub\frmAlarmDisplay.resx">
+      <DependentUpon>frmAlarmDisplay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmCaution.resx">
+      <DependentUpon>frmCaution.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmErrorDisplay.resx">
+      <DependentUpon>frmErrorDisplay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucLog.resx">
+      <DependentUpon>ucLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucMain.resx">
+      <DependentUpon>ucMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucMenu.resx">
+      <DependentUpon>ucMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucMonitorPanel.resx">
+      <DependentUpon>ucMonitorPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucNavigation.resx">
+      <DependentUpon>ucNavigation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucSystem.resx">
+      <DependentUpon>ucSystem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucTitle.resx">
+      <DependentUpon>ucTitle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAlignStage.resx">
+      <DependentUpon>ucAlignStage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucButtonPower.resx">
+      <DependentUpon>ucButtonPower.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucButtonText.resx">
+      <DependentUpon>ucButtonText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucButtonTop.resx">
+      <DependentUpon>ucButtonTop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCimStatus.resx">
+      <DependentUpon>ucCimStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCooling.resx">
+      <DependentUpon>ucCooling.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEQP.resx">
+      <DependentUpon>ucEQP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGlassDataSingle.resx">
+      <DependentUpon>ucGlassDataSingle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGlassDataTransfer.resx">
+      <DependentUpon>ucGlassDataTransfer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGlassDataView.resx">
+      <DependentUpon>ucGlassDataView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucIndexStatus.resx">
+      <DependentUpon>ucIndexStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPort.resx">
+      <DependentUpon>ucPort.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPortInformation.resx">
+      <DependentUpon>ucPortInformation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPortSetting.resx">
+      <DependentUpon>ucPortSetting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRcvHostData.resx">
+      <DependentUpon>ucRcvHostData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRequestProgressBar.resx">
+      <DependentUpon>ucRequestProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRobotStatus.resx">
+      <DependentUpon>ucRobotStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_guide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_guide_gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_power2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chrysanthemum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\company_top_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cst_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cst_full.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\cst_full2.png" />
+    <Content Include="Resources\cst_full3.png" />
+    <Content Include="Resources\Tianma-Logo-252x150.jpg" />
+    <Content Include="Resources\Tianma-Logo.jpg" />
+    <Content Include="Resources\Tianma-Logo.PNG" />
+    <None Include="Resources\top_logo.png" />
+    <None Include="Resources\top_lgd_logo.png" />
+    <None Include="Resources\top_bar_split_bg.png" />
+    <None Include="Resources\top_bar_right_bg.png" />
+    <None Include="Resources\top_bar_left_bg.png" />
+    <None Include="Resources\top_bar_center_bg.png" />
+    <None Include="Resources\status_red.png" />
+    <None Include="Resources\stage_multi_glass1.png" />
+    <None Include="Resources\stage_glass_none.png" />
+    <None Include="Resources\stage_glass.png" />
+    <None Include="Resources\stage_box_run.png" />
+    <None Include="Resources\stage_box_idle.png" />
+    <None Include="Resources\stage_box_down.png" />
+    <None Include="Resources\robot_right_ret_glass.png" />
+    <None Include="Resources\robot_right_ret.png" />
+    <None Include="Resources\robot_right_ext_glass.png" />
+    <None Include="Resources\robot_right_ext.png" />
+    <None Include="Resources\robot_left_ret_glass.png" />
+    <None Include="Resources\robot_left_ret.png" />
+    <None Include="Resources\robot_left_ext_glass.png" />
+    <None Include="Resources\robot_left_ext.png" />
+    <None Include="Resources\robot_box_run.png" />
+    <None Include="Resources\robot_box_idle.png" />
+    <None Include="Resources\robot_box_down.png" />
+    <EmbeddedResource Include="FormMain\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmCIMMessageDIsplay.resx">
+      <DependentUpon>frmCIMMessageDIsplay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmConfig.resx">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmScrap.resx">
+      <DependentUpon>frmScrap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmAutoRecipeMode.resx">
+      <DependentUpon>frmAutoRecipeMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmConfirm.resx">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmLinkSignal.resx">
+      <DependentUpon>frmLinkSignal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmAlarm.resx">
+      <DependentUpon>frmAlarm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmUIMode.resx">
+      <DependentUpon>frmUIMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmCIMMode.resx">
+      <DependentUpon>frmCIMMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmVCRMode.resx">
+      <DependentUpon>frmVCRMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmGlassData.resx">
+      <DependentUpon>frmGlassData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmGlassDataWHTM.resx">
+      <DependentUpon>frmGlassDataWHTM.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmEqpMode.resx">
+      <DependentUpon>frmEqpMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSub\frmExchangeMode.resx">
+      <DependentUpon>frmExchangeMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\port_box_run.png" />
+    <EmbeddedResource Include="Resources\port_box_idle.png" />
+    <EmbeddedResource Include="Resources\port_box_down.png" />
+    <EmbeddedResource Include="Frame\Main\ucControlPanel.resx">
+      <DependentUpon>ucControlPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCurGlassData.resx">
+      <DependentUpon>ucCurGlassData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGlassData.resx">
+      <DependentUpon>ucGlassData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucLinkSignalPanel.resx">
+      <DependentUpon>ucLinkSignalPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\Main\ucRecipePanel.resx">
+      <DependentUpon>ucRecipePanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRecipeStatus.resx">
+      <DependentUpon>ucRecipeStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGlassDataWHTM.resx">
+      <DependentUpon>ucGlassDataWHTM.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Resources\led_red.png" />
+    <None Include="Resources\led_green.png" />
+    <None Include="Resources\eqp_box_run_left_top5.png" />
+    <None Include="Resources\eqp_box_run_left_bottom5.png" />
+    <None Include="Resources\eqp_box_run.png" />
+    <None Include="Resources\eqp_box_idle_left_top5.png" />
+    <None Include="Resources\eqp_box_idle_left_bottom5.png" />
+    <None Include="Resources\eqp_box_idle.png" />
+    <None Include="Resources\eqp_box_down_left_top5.png" />
+    <None Include="Resources\eqp_box_down_left_bottom5.png" />
+    <None Include="Resources\eqp_box_down.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

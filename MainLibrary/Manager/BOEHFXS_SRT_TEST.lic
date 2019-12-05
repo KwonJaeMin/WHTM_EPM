@@ -1,0 +1,1423 @@
+<?xml version="1.0" standalone="yes"?>
+<SmartCom>
+  <CONFIG>
+    <General>
+      <EQPorHost value="EQP" />
+      <DeviceID id="0" />
+      <Connection Mode="Passive" />
+    </General>
+    <Log>
+      <Secs1Log Period="Day" />
+      <Secs2Log Period="Day" />
+      <EngineLog Period="None" />
+      <LogBackup Period="Day" Per="1" />
+      <LogPath path="" />
+    </Log>
+    <HSMS>
+      <T3_TimeOut second="45" />
+      <T5_TimeOut second="10" />
+      <T6_TimeOut second="5" />
+      <T7_TimeOut second="10" />
+      <T8_TimeOut second="5" />
+      <LinkTestDelay second="0" />
+      <RemoteIP ip="127.0.0.1" />
+      <RemotePort num="5000" />
+      <LocalPort num="5000" />
+      <BufferSize kbytes="1000" />
+    </HSMS>
+  </CONFIG>
+  <LIBRARY>
+    <Transaction Name="S1F1" Description="Are You There Request">
+      <Primary Name="S1F1" Stream="1" Function="1" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S1F2" Stream="1" Function="2" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="MDLN" Count="6" Fixed="True" Value="      " Description="" />
+            <ASCii Name="SOFTREV" Count="6" Fixed="True" Value="      " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F5_SOFD1" Description="Formatted Status Request">
+      <Primary Name="S1F5_SOFD1" Stream="1" Function="5" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S1F6_SOFD1" Stream="1" Function="6" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="3" Fixed="True" Description="">
+              <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+              <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+              <ASCii Name="TIME" Count="14" Fixed="True" Value="              " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F5_SOFD2" Description="Formatted Status Request">
+      <Primary Name="S1F5_SOFD2" Stream="1" Function="5" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S1F6_SOFD2" Stream="1" Function="6" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="PORTCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="11" Fixed="True" Description="">
+                <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="PTTYPE" Count="2" Fixed="True" Value="  " Description="" />
+                <ASCii Name="USETYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="TRSMODE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PTST" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="LOTST" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SLOTINFO" Count="1" Fixed="False" Value=" " Description="" />
+                <ASCii Name="PTATTRIBUTE" Count="5" Fixed="True" Value="     " Description="" />
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F5_SOFD4" Description="Formatted Status Request">
+      <Primary Name="S1F5_SOFD4" Stream="1" Function="5" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S1F6_SOFD4" Stream="1" Function="6" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="UNITCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+                <ASCii Name="UNITST" Count="1" Fixed="True" Value=" " Description="" />
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F5_SOFD3" Description="Formatted Status Request">
+      <Primary Name="S1F5_SOFD3" Stream="1" Function="5" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S1F6_SOFD3" Stream="1" Function="6" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="SFCD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="CHAMBERCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="4" Fixed="True" Description="">
+                <ASCii Name="CHID" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="CHST" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SUBPPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <List Name="GLASSCOUNT" Count="1" Fixed="False" Description="">
+                  <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F13_CASE2" Description="Establish Communications Request">
+      <Primary Name="S1F13_CASE2" Stream="1" Function="13" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="0" Fixed="True" Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S1F14_CASE2" Stream="1" Function="14" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="COMMACK" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <ASCii Name="MDLN" Count="6" Fixed="True" Value="      " Description="" />
+              <ASCii Name="SOFTREV" Count="6" Fixed="True" Value="      " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F13_CASE1" Description="Establish Communications Request">
+      <Primary Name="S1F13_CASE1" Stream="1" Function="13" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="MDLN" Count="6" Fixed="True" Value="      " Description="" />
+            <ASCii Name="SOFTREV" Count="6" Fixed="True" Value="      " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S1F14_CASE1" Stream="1" Function="14" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="COMMACK" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="0" Fixed="True" Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F15" Description="Request OFF-LINE">
+      <Primary Name="S1F15" Stream="1" Function="15" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S1F16" Stream="1" Function="16" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="OFLACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S1F17" Description="Request ON-LINE">
+      <Primary Name="S1F17" Stream="1" Function="17" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S1F18" Stream="1" Function="18" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ONLACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F13" Description="Equipment Constants Request">
+      <Primary Name="S2F13" Stream="2" Function="13" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="ECIDCOUNT" Count="1" Fixed="False" Description="">
+            <ASCii Name="ECID" Count="4" Fixed="True" Value="    " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F14" Stream="2" Function="14" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="ECVCOUNT" Count="1" Fixed="False" Description="">
+            <ASCii Name="ECV" Count="10" Fixed="True" Value="          " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F17" Description="Date and Time Request">
+      <Primary Name="S2F17" Stream="2" Function="17" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S2F18" Stream="2" Function="18" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="TIME" Count="14" Fixed="True" Value="              " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F29" Description="Equipment Constant Name list Request">
+      <Primary Name="S2F29" Stream="2" Function="29" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="ECID" Count="4" Fixed="True" Value="    " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S2F30" Stream="2" Function="30" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="NAMELIST" Count="1" Fixed="False" Description="">
+            <List Name="" Count="5" Fixed="True" Description="">
+              <ASCii Name="ECID" Count="4" Fixed="True" Value="    " Description="" />
+              <ASCii Name="ECNAME" Count="40" Fixed="True" Value="                                        " Description="" />
+              <ASCii Name="ECMIN" Count="10" Fixed="True" Value="          " Description="" />
+              <ASCii Name="ECMAX" Count="10" Fixed="True" Value="          " Description="" />
+              <ASCii Name="ECV" Count="10" Fixed="True" Value="          " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F31" Description="Date and Time Set Acknowledge(DTA)">
+      <Primary Name="S2F31" Stream="2" Function="31" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S2F32" Stream="2" Function="32" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="TIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F37" Description="Enable or Disable Event Report">
+      <Primary Name="S2F37" Stream="2" Function="37" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="CEED" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="CEIDCOUNT" Count="1" Fixed="False" Description="">
+              <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F38" Stream="2" Function="38" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ERACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F41_LABEL" Description="Host Command Send (Operator Call)">
+      <Primary Name="S2F41_LABEL" Stream="2" Function="41" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="9" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_1" Count="6" Fixed="True" Value="LABEL1" Description="" />
+                <ASCii Name="MESSAGE_1" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_2" Count="6" Fixed="True" Value="LABEL2" Description="" />
+                <ASCii Name="MESSAGE_2" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_3" Count="6" Fixed="True" Value="LABEL3" Description="" />
+                <ASCii Name="MESSAGE_3" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_4" Count="6" Fixed="True" Value="LABEL4" Description="" />
+                <ASCii Name="MESSAGE_4" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_5" Count="6" Fixed="True" Value="LABEL5" Description="" />
+                <ASCii Name="MESSAGE_5" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_6" Count="6" Fixed="True" Value="LABEL6" Description="" />
+                <ASCii Name="MESSAGE_6" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_7" Count="6" Fixed="True" Value="LABEL7" Description="" />
+                <ASCii Name="MESSAGE_7" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_8" Count="6" Fixed="True" Value="LABEL8" Description="" />
+                <ASCii Name="MESSAGE_8" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_9" Count="6" Fixed="True" Value="LABEL9" Description="" />
+                <ASCii Name="MESSAGE_9" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F42_LABEL" Stream="2" Function="42" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="HCACK" Count="1" Fixed="True" Value=" " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F41_START" Description="Host Command Send (Start)">
+      <Primary Name="S2F41_START" Stream="2" Function="41" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="3" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_1" Count="6" Fixed="True" Value="PTID  " Description="" />
+                <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_2" Count="6" Fixed="True" Value="CSTID " Description="" />
+                <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_3" Count="6" Fixed="True" Value="LOTID " Description="" />
+                <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F42_START" Stream="2" Function="42" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="HCACK" Count="1" Fixed="True" Value=" " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F41_OPCALL" Description="Host Command Send (Operator Call)">
+      <Primary Name="S2F41_OPCALL" Stream="2" Function="41" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="" Count="1" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="CPNAME_1" Count="6" Fixed="True" Value="OPCALL" Description="" />
+                <ASCii Name="MESSAGE" Count="40" Fixed="True" Value="                                        " Description="" />
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F42_OPCALL" Stream="2" Function="42" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="RCMD" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="HCACK" Count="1" Fixed="True" Value=" " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F101" Description="Current Enabled or Disabled Event List Request">
+      <Primary Name="S2F101" Stream="2" Function="101" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <ASCii Name="CEED" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S2F102" Stream="2" Function="102" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="CEED" Count="1" Fixed="True" Value=" " Description="" />
+            <List Name="CURRENTCOUNT" Count="1" Fixed="False" Description="">
+              <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F103_CASE1" Description="Lot(Glass and Panel) Information Download">
+      <Primary Name="S2F103_CASE1" Stream="2" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="CSTCAPACITY" Count="1" Fixed="False" Description="">
+              <List Name="" Count="8" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F104_CASE1" Stream="2" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="LIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F103_CASE2" Description="Lot(Glass and Panel) Information Download">
+      <Primary Name="S2F103_CASE2" Stream="2" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="11" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <ASCii Name="PREHIST" Count="20" Fixed="True" Value="                    " Description="" />
+            <List Name="CSTCAPACITY" Count="1" Fixed="False" Description="">
+              <List Name="" Count="8" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F104_CASE2" Stream="2" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="LIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F103_CASE3" Description="Lot(Glass and Panel) Information Download">
+      <Primary Name="S2F103_CASE3" Stream="2" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="CSTCAPACITY" Count="1" Fixed="False" Description="">
+              <List Name="" Count="9" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="PANELID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PNLJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PNLGRADE" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F104_CASE3" Stream="2" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="LIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F103_CASE4" Description="Lot(Glass and Panel) Information Download">
+      <Primary Name="S2F103_CASE4" Stream="2" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="11" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="PAIRLOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="CSTCAPACITY" Count="1" Fixed="False" Description="">
+              <List Name="" Count="10" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PAIRSLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="PNLGRADE" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F104_CASE4" Stream="2" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="LIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S2F103_CASE5" Description="Lot(Glass and Panel) Information Download">
+      <Primary Name="S2F103_CASE5" Stream="2" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="CSTCAPACITY" Count="1" Fixed="False" Description="">
+              <List Name="" Count="9" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="QPNLJUDGE" Count="10" Fixed="True" Value="          " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S2F104_CASE5" Stream="2" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="LIACK" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S5F1" Description="Alarm Report Sent">
+      <Primary Name="S5F1" Stream="5" Function="1" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="6" Fixed="True" Description="">
+            <ASCii Name="ALST" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="ALCD" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="ALID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="ALTX" Count="40" Fixed="True" Value="                                        " Description="" />
+            <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+            <List Name="LOTCOUNT" Count="1" Fixed="False" Description="">
+              <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S5F2" Stream="5" Function="2" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC5" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S5F103" Description="Current Alarm Set List Request">
+      <Primary Name="S5F103" Stream="5" Function="103" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+            <ASCii Name="ALCD" Count="7" Fixed="True" Value="       " Description="" />
+            <ASCii Name="CURCOUNT" Count="4" Fixed="True" Value="    " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S5F104" Stream="5" Function="104" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+            <List Name="ALIDCOUNT" Count="1" Fixed="False" Description="">
+              <ASCii Name="ALID" Count="10" Fixed="True" Value="          " Description="" />
+            </List>
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F3" Description="Discrete Variable Data Send">
+      <Primary Name="S6F3" Stream="6" Function="3" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="9" Fixed="True" Description="">
+              <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+              <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+              <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+              <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+              <ASCii Name="CHID" Count="3" Fixed="True" Value="   " Description="" />
+              <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+              <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+              <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+              <List Name="DVCOUNT" Count="1" Fixed="False" Description="">
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="DVNAME" Count="15" Fixed="True" Value="               " Description="" />
+                  <ASCii Name="DV" Count="20" Fixed="True" Value="                    " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F4" Stream="6" Function="4" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID101" Description="Event Report Send">
+      <Primary Name="S6F11_CEID101" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="1" Fixed="True" Description="">
+                  <ASCii Name="CMST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID101" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID106" Description="Event Report Send">
+      <Primary Name="S6F11_CEID106" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+                  <ASCii Name="UNITST" Count="7" Fixed="True" Value="       " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID106" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID108" Description="Event Report Send">
+      <Primary Name="S6F11_CEID108" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="3" Fixed="True" Description="">
+                  <ASCii Name="MATERIALID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="MATERIALST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="TIME" Count="14" Fixed="True" Value="              " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID108" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID109" Description="Event Report Send">
+      <Primary Name="S6F11_CEID019" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="ECCOUNT" Count="1" Fixed="False" Description="">
+                  <ASCii Name="ECID" Count="4" Fixed="True" Value="    " Description="" />
+                  <ASCii Name="ECV" Count="10" Fixed="True" Value="          " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID109" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID111" Description="Event Report Send">
+      <Primary Name="S6F11_CEID111" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="1" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID111" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID200" Description="Event Report Send">
+      <Primary Name="S6F11" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="5" Fixed="True" Description="">
+                  <ASCii Name="PTID" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="PTST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="SLOTMAP" Count="1" Fixed="False" Value=" " Description="" />
+                  <ASCii Name="TIME" Count="14" Fixed="True" Value="              " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID210" Description="Event Report Send">
+      <Primary Name="S6F11_CEID210" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="1" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="6" Fixed="True" Description="">
+                  <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="PTTYPE" Count="2" Fixed="True" Value="  " Description="" />
+                  <ASCii Name="USETYPE" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="TRSMODE" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="PTATTRIBUTE" Count="5" Fixed="True" Value="     " Description="" />
+                  <ASCii Name="PTST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID210" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID301" Description="Event Report Send">
+      <Primary Name="S6F11_CEID301" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="6" Fixed="True" Description="">
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="IPID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="OPID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="ICID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="OCID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID301" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID312" Description="Event Report Send">
+      <Primary Name="S6F11_CEID312" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="1" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="4" Fixed="True" Description="">
+                  <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID312" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID321" Description="Event Report Send">
+      <Primary Name="S6F11_CEID321" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="12" Fixed="True" Description="">
+                  <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="IPID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="OPID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="ICID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="OCID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="FSLOTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="TSLOTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="RGLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="HGLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID321" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID331" Description="Event Report Send">
+      <Primary Name="S6F11_CEID331" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="8" Fixed="True" Description="">
+                  <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="SLOTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="TEXT" Count="40" Fixed="True" Value="                                        " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID331" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID333" Description="Event Report Send">
+      <Primary Name="S6F11_CEID333" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="8" Fixed="True" Description="">
+                  <ASCii Name="UNITID" Count="7" Fixed="True" Value="       " Description="" />
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="SLOTID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="TEXT" Count="40" Fixed="True" Value="                                        " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID333" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID401" Description="Event Report Send">
+      <Primary Name="S6F11_CEID401" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="1" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="3" Fixed="True" Description="">
+                  <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="PPCINFO" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="LCTIME" Count="14" Fixed="True" Value="              " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID401" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F11_CEID411" Description="Event Report Send">
+      <Primary Name="S6F11_CEID411" Stream="6" Function="11" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="3" Fixed="True" Description="">
+            <ASCii Name="DATAID" Count="4" Fixed="True" Value="    " Description="" />
+            <ASCii Name="CEID" Count="3" Fixed="True" Value="   " Description="" />
+            <List Name="" Count="2" Fixed="True" Description="">
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID1" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="2" Fixed="True" Description="">
+                  <ASCii Name="CRST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="EQST" Count="1" Fixed="True" Value=" " Description="" />
+                </List>
+              </List>
+              <List Name="" Count="2" Fixed="True" Description="">
+                <ASCii Name="RPTID2" Count="3" Fixed="True" Value="   " Description="" />
+                <List Name="" Count="4" Fixed="True" Description="">
+                  <ASCii Name="CHID" Count="3" Fixed="True" Value="   " Description="" />
+                  <ASCii Name="CHST" Count="1" Fixed="True" Value=" " Description="" />
+                  <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+                  <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F12_CEID411" Stream="6" Function="12" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F33" Description="Panel Grade Upload Report">
+      <Primary Name="S6F33" Stream="6" Function="33" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="5" Fixed="True" Description="">
+            <ASCii Name="PNLID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="ACPNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F34" Stream="6" Function="34" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F103_CASE1" Description="Lot (GLASS/PANEL) Information Upload">
+      <Primary Name="S6F103_CASE1" Stream="6" Function="103" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="25" Fixed="True" Value="                         " Description="" />
+            <List Name="PNLCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="8" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F104_CASE1" Stream="6" Function="104" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F103_CASE2" Description="Lot (GLASS/PANEL) Information Upload">
+      <Primary Name="S6F103_CASE2" Stream="6" Function="103" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="11" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="25" Fixed="True" Value="                         " Description="" />
+            <ASCii Name="PREHIST" Count="20" Fixed="True" Value="                    " Description="" />
+            <List Name="PNLCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="8" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F104_CASE2" Stream="6" Function="104" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F103_CASE3" Description="Lot (GLASS/PANEL) Information Upload">
+      <Primary Name="S6F103_CASE3" Stream="6" Function="103" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="PNLCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="9" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="PANELID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PNLJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PNLGRADE" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F104_CASE3" Stream="6" Function="104" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F103_CASE4" Description="Lot (GLASS/PANEL) Information Upload">
+      <Primary Name="S6F103_CASE4" Stream="6" Function="103" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="11" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="PAIRLOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="1" Fixed="False" Value=" " Description="" />
+            <List Name="PNLCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="10" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="PAIRSLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="PAIRGLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="2" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F104_CASE4" Stream="6" Function="104" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S6F103_CASE5" Description="Lot (GLASS/PANEL) Information Upload">
+      <Primary Name="S6F103_CASE5" Stream="6" Function="103" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="10" Fixed="True" Description="">
+            <ASCii Name="PTID" Count="3" Fixed="True" Value="   " Description="" />
+            <ASCii Name="LOTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="CSTID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="LOTJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="LSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+            <ASCii Name="OPERID" Count="10" Fixed="True" Value="          " Description="" />
+            <ASCii Name="PRODID" Count="20" Fixed="True" Value="                    " Description="" />
+            <ASCii Name="QTY" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="SLOTSEL" Count="25" Fixed="True" Value="                         " Description="" />
+            <List Name="PNLCOUNT" Count="1" Fixed="False" Description="">
+              <List Name="" Count="8" Fixed="True" Description="">
+                <ASCii Name="SLOTNO" Count="3" Fixed="True" Value="   " Description="" />
+                <ASCii Name="GLSID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+                <ASCii Name="GLSJUDGE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="GSORTTYPE" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="SMPLFLAG" Count="1" Fixed="True" Value=" " Description="" />
+                <ASCii Name="RWKCNT" Count="1" Fixed="True" Value=" " Description="" />
+                <List Name="LISTCOUNT" Count="1" Fixed="False" Description="">
+                  <List Name="" Count="4" Fixed="True" Description="">
+                    <ASCii Name="PNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="PNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="APNLJUDGE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                    <ASCii Name="APNLGRADE" Count="364" Fixed="True" Value="                                                                                                                                                                                                                                                                                                                                                                            " Description="" />
+                  </List>
+                </List>
+              </List>
+            </List>
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S6F104_CASE5" Stream="6" Function="104" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items>
+          <ASCii Name="ACKC6" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S7F19" Description="Current EPPD Request">
+      <Primary Name="S7F19" Stream="7" Function="19" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items />
+      </Primary>
+      <Secondary Name="S7F20" Stream="7" Function="20" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <List Name="PPIDCOUNT" Count="1" Fixed="False" Description="">
+            <ASCii Name="PPID" Count="20" Fixed="True" Value="                    " Description="" />
+          </List>
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S9F1" Description="Unrecognized Device ID">
+      <Primary Name="S9F1" Stream="9" Function="1" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <Bin Name="MHEAD" Count="10" Fixed="True" Value="0 0 0 0 0 0 0 0 0 0" Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S9F2" Stream="9" Function="2" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items />
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S9F3" Description="Unrecognized Stream Type">
+      <Primary Name="S9F3" Stream="9" Function="3" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <Bin Name="MHEAD" Count="10" Fixed="True" Value="0 0 0 0 0 0 0 0 0 0" Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S9F4" Stream="9" Function="4" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items />
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S9F7" Description="Illegal Data">
+      <Primary Name="S9F7" Stream="9" Function="7" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <Bin Name="MHEAD" Count="10" Fixed="True" Value="0 0 0 0 0 0 0 0 0 0" Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S9F8" Stream="9" Function="8" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items />
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S9F9" Description="Transaction Timer Timeout">
+      <Primary Name="S9F9" Stream="9" Function="9" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <Bin Name="SHEAD" Count="10" Fixed="True" Value="0 0 0 0 0 0 0 0 0 0" Description="" />
+        </Items>
+      </Primary>
+      <Secondary Name="S9F10" Stream="9" Function="10" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items />
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S9F13" Description="Conversation Timeout">
+      <Primary Name="S9F13" Stream="9" Function="13" NoLoging="False" ReplyExpected="True" To="Both" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="MEXP" Count="6" Fixed="True" Value="      " Description="" />
+            <ASCii Name="EDID" Count="6" Fixed="True" Value="      " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S9F14" Stream="9" Function="14" NoLoging="False" ReplyExpected="False" To="Both" Description="">
+        <Items />
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S10F1" Description="Terminal Request">
+      <Primary Name="S10F1" Stream="10" Function="1" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="TID" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="TEXT" Count="40" Fixed="True" Value="                                        " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S10F2" Stream="10" Function="2" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC10" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+    <Transaction Name="S10F3" Description="Terminal Display Single">
+      <Primary Name="S10F3" Stream="10" Function="3" NoLoging="False" ReplyExpected="True" To="Equip" Description="">
+        <Items>
+          <List Name="" Count="2" Fixed="True" Description="">
+            <ASCii Name="TID" Count="2" Fixed="True" Value="  " Description="" />
+            <ASCii Name="TEXT" Count="40" Fixed="True" Value="                                        " Description="" />
+          </List>
+        </Items>
+      </Primary>
+      <Secondary Name="S10F4" Stream="10" Function="4" NoLoging="False" ReplyExpected="False" To="Host" Description="">
+        <Items>
+          <ASCii Name="ACKC10" Count="1" Fixed="True" Value=" " Description="" />
+        </Items>
+      </Secondary>
+    </Transaction>
+  </LIBRARY>
+</SmartCom>
