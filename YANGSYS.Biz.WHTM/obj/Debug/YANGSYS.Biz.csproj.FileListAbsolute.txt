@@ -1,0 +1,6 @@
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainProgram\bin\Debug\Config\BOE_B2_EQP.lic
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainProgram\bin\Debug\YANGSYS.Biz.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainProgram\bin\Debug\YANGSYS.Biz.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\Debug\YANGSYS.Biz.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\Debug\YANGSYS.Biz.pdb

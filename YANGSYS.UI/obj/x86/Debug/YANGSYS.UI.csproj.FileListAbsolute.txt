@@ -1,0 +1,200 @@
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarmDisplay.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormCaution.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormErrorDisplay.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucLog.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain_GIB.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMenu.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Frame.Main.ucMonitorPanel.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucNavigation.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucSystem.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucTitle.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\WindowsFormsApplication1.ucAlignStage.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonImg.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonText.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonTop.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCimStatus.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCooling.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucEQP.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataSingle.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataTransfer.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataView.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucIndexStatus.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPort.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPortInformation.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucPortSetting.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRcvHostData.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRequestProgressBar.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRobotStatus.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormMain.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmAutoRecipeMode.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmConfirm.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmLinkSignal.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarm.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormConfig.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmUIMode.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmCIMMode.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmVCRMode.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmCIMMessageDIsplay.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmGlassData.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Properties.Resources.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataPanel.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.csproj.GenerateResource.Cache
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmScrap.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarmDisplay.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormCaution.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormErrorDisplay.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucLog.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain_GIB.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMenu.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Frame.Main.ucMonitorPanel.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucNavigation.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucSystem.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucTitle.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\WindowsFormsApplication1.ucAlignStage.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonImg.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonText.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonTop.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCimStatus.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCooling.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucEQP.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataSingle.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataTransfer.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataView.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucIndexStatus.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPort.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPortInformation.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucPortSetting.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRcvHostData.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRequestProgressBar.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRobotStatus.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormMain.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmScrap.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmAutoRecipeMode.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmConfirm.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmLinkSignal.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarm.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormConfig.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmUIMode.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmCIMMode.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmVCRMode.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmCIMMessageDIsplay.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmGlassData.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Properties.Resources.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataPanel.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.pdb
+C:\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.dll
+C:\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.pdb
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarmDisplay.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormCaution.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormErrorDisplay.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucLog.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain_GIB.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMenu.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Frame.Main.ucMonitorPanel.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucNavigation.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucSystem.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucTitle.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\WindowsFormsApplication1.ucAlignStage.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonImg.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonText.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonTop.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCimStatus.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCooling.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucEQP.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataSingle.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataTransfer.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataView.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucIndexStatus.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPort.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPortInformation.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucPortSetting.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRcvHostData.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRequestProgressBar.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRobotStatus.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormMain.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmScrap.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmAutoRecipeMode.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmConfirm.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmLinkSignal.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarm.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormConfig.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmUIMode.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmCIMMode.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmVCRMode.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmCIMMessageDIsplay.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmGlassData.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Properties.Resources.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataPanel.resources
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.csproj.GenerateResource.Cache
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.dll
+C:\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainProgram\bin\x86\Debug\YANGSYS.UI.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarmDisplay.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormCaution.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormErrorDisplay.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucLog.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMain.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucMenu.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Frame.Main.ucMonitorPanel.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucNavigation.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucSystem.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucTitle.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\WindowsFormsApplication1.ucAlignStage.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonImg.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonText.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucButtonTop.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCimStatus.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucCooling.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucEQP.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataSingle.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataTransfer.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataView.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucIndexStatus.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPort.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucPortInformation.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucPortSetting.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRcvHostData.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRequestProgressBar.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\Widgets.ucRobotStatus.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormMain.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmScrap.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmAutoRecipeMode.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmConfirm.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmLinkSignal.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmAlarm.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormConfig.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmUIMode.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmCIMMode.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmVCRMode.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmCIMMessageDIsplay.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmGlassData.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.Properties.Resources.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucControlPanel.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassData.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucLinkSignalPanel.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRecipePanel.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataPanel.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucRecipeStatus.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.frmGlassDataWHTM.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.ucGlassDataWHTM.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.FormSub.frmEqpMode.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.UI\obj\x86\Debug\YANGSYS.UI.SubForm.frmExchangeMode.resources

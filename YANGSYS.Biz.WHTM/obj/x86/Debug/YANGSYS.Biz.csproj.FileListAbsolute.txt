@@ -1,0 +1,59 @@
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\Config\BOE_B2_EQP.lic
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.Biz.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.Biz.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\MainLibrary.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SmartDevice.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.BasicCore.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Component.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Core.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.DataBase.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Driver.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.File.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Global.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Logger.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Properties.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.ControlLib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\ScannerRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\Interop.ACTMULTILib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\PlcRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.DataConvert.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Global.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\ScannerRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Logger.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Driver.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.File.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.ControlLib.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.DataBase.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.BasicCore.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\MainLibrary.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\PlcRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Component.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Properties.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.Core.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SOFD.DataConvert.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\SmartDevice.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.CommDrv.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\bin\x86\Debug\YANGSYS.CommDrv.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\MainLibrary\bin\x86\Debug\Config\BOE_B2_EQP.lic
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\MainLibrary\bin\x86\Debug\Config\BOE_B2_EQP.lic
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.pdb
+C:\YANGSYS CIM\MainLibrary\bin\x86\Debug\Config\BOE_B2_EQP.lic
+C:\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.dll
+C:\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.pdb
+C:\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.dll
+C:\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\MainLibrary\bin\x86\Debug\YANGSYS.Biz.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Biz\obj\x86\Debug\YANGSYS.Biz.pdb

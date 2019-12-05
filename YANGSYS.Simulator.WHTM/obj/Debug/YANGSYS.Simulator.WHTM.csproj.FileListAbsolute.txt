@@ -1,0 +1,30 @@
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\bin\Debug\YANGSYS.Simulator.WHTM.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\bin\Debug\YANGSYS.Simulator.WHTM.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.Form1.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.Properties.Resources.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.exe.licenses
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.exe
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.pdb
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\YANGSYS.Simulator.WHTM.exe
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\YANGSYS.Simulator.WHTM.pdb
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.Form1.resources
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.Properties.Resources.resources
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\obj\Debug\YANGSYS.Simulator.WHTM.exe.licenses
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\CSVTagDatabase.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\CSVTagDatabase2.0.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ImportableVariableTypes.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ImportableVariableTypes2.0.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\TagDatabaseEditor.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\TagDatabaseEditor2.0.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ImportableVariableTypes.xml
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ImportableVariableTypes2.0.xml
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ja\TagDatabaseEditor2.0.resources.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ja\CSVTagDatabase.resources.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ja\TagDatabaseEditor.resources.dll
+F:\workspace\프로젝트.양전자\YANGSYS.Simulator.WHTM\bin\Debug\ja\CSVTagDatabase2.0.resources.dll

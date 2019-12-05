@@ -1,0 +1,168 @@
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\Interop.ACTMULTILib.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\Interop.ACTMULTILib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\Interop.ACTMULTILib.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\YANGSYS.CommDrv.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\Interop.ACTMULTILib.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataConvert.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Gui.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\ScannerRemotingObject.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Core.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\PlcRemotingObject.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Global.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.ComponentEx.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Component.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.BasicCore.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.File.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.OperationProcess.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Logger.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Properties.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Scheduler.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.DataBase.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Driver.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SOFD.Control.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\bin\Debug\SmartDevice.pdb
+C:\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\ResolveAssemblyReference.cache
+C:\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.dll
+C:\YANGSYS CIM\YANGSYS.CommIF\obj\Debug\YANGSYS.CommDrv.pdb

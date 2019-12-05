@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs>
+  <LogConfig LogPath="D:\LOG" LogUseDay="30" CPUQuantity="20"/>
+  <DBConfig DBPath="C:\EMP_DB" DBLogPath="D:\LOG\EMP_LOG_DB" />
+  <UserConfig UserAccount="a" UserPassword="a" />
+  <SiteConfig SiteName="PROBE" SystemMode="SimulationMode"/>       <!--SimulationMode/FABMode-->
+  <EtcConfig CVDStore="False" RouteCondition="RPSC" TM10LastGlassType ="BP" />
+</Configs>

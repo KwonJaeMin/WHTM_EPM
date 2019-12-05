@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomProperties>
+  <Section Name="SYSTEM">
+    <Property Key="SITE" Value="WHTM" Description="" />
+    <Property Key="EQUIPMENT_MODE" Value="1" Description="" />
+    <Property Key="EQUIPMENT_STATE" Value="1" Description="" />
+    <Property Key="PROCESS_STATE" Value="1" Description="PROCESS STATE" />
+  </Section>
+  <Section Name="WHTM">
+    <Property Key="AUTO_CONNECTION" Value="False" Description="" />
+    <Property Key="AUTO_INTERFACE" Value="False" Description="" />
+    <Property Key="IP" Value="127.0.0.1" Description="" />
+    <Property Key="PORT" Value="7000" Description="" />
+    <Property Key="SERVER_CLIENT" Value="CLIENT" Description="" />
+    <Property Key="GLASS_EXIST1" Value="False" Description="" />
+    <Property Key="CURRENT_PPID" Value="1" Description="" />
+    <Property Key="CURRENT_RECIPEID" Value="1" Description="" />
+    <Property Key="AUTO_MODE" Value="False" Description="" />
+  </Section>
+  <Section Name="B10">
+    <Property Key="AUTO_CONNECTION" Value="True" Description="" />
+    <Property Key="AUTO_INTERFACE" Value="True" Description="" />
+    <Property Key="IP" Value="127.0.0.1" Description="" />
+    <Property Key="PORT" Value="7000" Description="" />
+    <Property Key="SERVER_CLIENT" Value="CLIENT" Description="" />
+    <Property Key="GLASS_EXIST1" Value="False" Description="" />
+    <Property Key="CURRENT_PPID" Value="1" Description="" />
+    <Property Key="CURRENT_RECIPEID" Value="1" Description="" />
+    <Property Key="AUTO_MODE" Value="False" Description="" />
+  </Section>
+</CustomProperties>

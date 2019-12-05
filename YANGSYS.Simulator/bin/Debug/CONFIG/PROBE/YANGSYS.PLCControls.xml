@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PLCControls>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_ABNORMAL_INTERFACE" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_ALARM_RESET_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_ALARM_SET_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_ALARM_SET_REQUEST" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_ALIVE" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_AUTO_MODE_CHANGE_EVENT_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_BUZZER" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_CIM_MESSAGE_ON_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_COMMUNICATION_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_CURRENT_RECIPE_CHANGE_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_DEFECT_CODE_REPORT_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_GLASS_DATA_SEND" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_GLASS_DATA_VALUE_FILE_REPORT_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_GLASS_SCRAP_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_IONIZER_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_JOB_HOLD_EVENT_REPORT_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_LOAD_COMPLETE" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_LOAD_ENABLE_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_LOAD_HAND_DOWN_COMPLETION" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_LOAD_REQUEST_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_LOST_GLASS_DATA_REQUEST_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_OXR_INFORMATION_REQUEST_DATA" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_OXR_INFORMATION_UPDATE_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_RECIPE_LIST_REQ" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_RECIPE_REPORT_ACK" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_RECOVERY_GLASS_DATA_SEND" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_STAGE_GLASS_EXIST_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_STATE_CHANGE_EVENT_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_STATE_CHANGE_REQ" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_STATE_REQ" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_SVID_SEND_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_TRACKING_DATA_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_TRANSFER_STOP" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_UNLOAD_COMPLETE" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_UNLOAD_ENABLE_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_UNLOAD_HAND_UP_COMPLETION" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_UNLOAD_REQUEST_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+  <PLCControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VO_USER_LOGIN_REPLY" DeviceType="B" ControlArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></PLCControl>
+
+
+</PLCControls>

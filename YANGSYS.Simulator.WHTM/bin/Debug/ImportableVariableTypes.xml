@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profile  version="1.0">
+	<variabletypes>
+		<variabletype name="BOOL"/>
+		<variabletype name="BYTE"/>
+		<variabletype name="SINT"/>
+		<variabletype name="INT"/>
+		<variabletype name="DINT"/>
+		<variabletype name="LINT"/>
+		<variabletype name="USINT"/>
+		<variabletype name="UINT"/>
+		<variabletype name="UDINT"/>
+		<variabletype name="ULINT"/>
+		<variabletype name="REAL"/>
+		<variabletype name="LREAL"/>
+		<variabletype name="WORD"/>
+		<variabletype name="DWORD"/>
+		<variabletype name="LWORD"/>
+		<variabletype name="STRING"/>
+		<variabletype name="CHANNEL"/>
+		<variabletype name="UINT_BCD"/>
+		<variabletype name="UDINT_BCD"/>
+		<variabletype name="ULINT_BCD"/>
+		<variabletype name="ENUM"/>
+		<variabletype name="DATE"/>
+		<variabletype name="TIME"/>
+		<variabletype name="DATE_AND_TIME"/>
+		<variabletype name="TIME_OF_DAY"/>
+	</variabletypes>
+</profile>
+

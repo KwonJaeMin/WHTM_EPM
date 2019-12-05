@@ -1,0 +1,12 @@
+2016-09-29 22:22:35.380	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271
+2016-09-29 22:46:42.191	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271
+2016-09-29 22:46:46.460	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271
+2016-09-29 22:46:47.380	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271
+2016-09-29 22:46:49.188	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271
+2016-09-29 22:46:58.754	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.CommDrv.WaitMessage() 파일 F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.CommIF\CommDrv.cs:줄 271

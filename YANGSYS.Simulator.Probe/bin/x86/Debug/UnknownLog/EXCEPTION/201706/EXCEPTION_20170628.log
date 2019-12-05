@@ -1,0 +1,248 @@
+2017-06-28 10:50:46.081	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:46.628	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:48.164	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:48.588	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.087	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.177	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.379	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.590	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.605	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:51.807	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:52.010	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:52.190	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:52.589	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:55.285	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:55.519	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:55.593	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:55.745	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:55.959	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:56.183	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:56.375	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 10:50:56.594	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 410
+2017-06-28 11:21:57.694	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:21:58.177	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:00.670	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:00.821	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:00.991	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:01.170	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:01.329	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:01.508	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:01.712	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:01.913	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.116	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.280	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.330	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.521	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.724	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:02.947	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:03.162	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:03.208	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:03.376	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:03.589	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:03.803	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.017	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.172	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.232	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.457	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.692	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:04.916	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.119	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.175	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.357	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.558	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.784	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:05.996	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:22:06.175	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:10.304	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:10.823	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:18.738	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:18.816	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:20.322	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:20.358	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:20.594	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:20.820	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:20.864	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:21.146	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:21.370	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:21.595	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:21.820	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:21.843	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:22.089	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:22.369	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:22.619	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:22.821	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:22.890	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:23.125	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:23.362	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:23.643	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:23.822	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:23.948	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:24.734	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:24.824	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:26.325	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:26.523	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:26.680	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:26.831	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.029	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.210	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.400	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.593	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.794	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.853	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:27.986	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:28.187	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:28.390	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:28.592	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:28.854	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:32.453	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:32.858	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:36.402	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:36.755	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:36.862	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:36.979	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:37.474	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:37.715	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:37.863	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:37.907	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.083	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.274	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.459	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.643	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.859	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:38.865	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:39.283	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:39.515	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:39.715	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:39.864	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:39.898	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:40.082	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:40.290	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:40.474	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:40.865	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:40.934	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:41.136	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:41.327	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:41.497	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:41.698	SYSTEM	전송 연결 WSACancelBlockingCall를 호출하여 차단 작업이 중단되었습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-06-28 11:40:41.866	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\workspace\YANGSYS CIM_20170616\YANGSYS.CommIF\CommDrv.cs:줄 416

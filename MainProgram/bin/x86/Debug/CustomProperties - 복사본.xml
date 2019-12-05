@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomProperties>
+  <Section Name="YESDRV">
+    <Property Key="CONNECTION_STRING" Value="DriverName=SIMULATOR,Mode=Server,RemoteIP=127.0.0.1,RemotePort=7000,LocalIP=127.0.0.1,LocalPort=7000" Description="양전자 SYSTEM TCP/IP 접속" />
+  </Section>
+  <Section Name="SYSTEM">
+    <Property Key="PROGRAM NAME" Value="Smart Framework" Description="" />
+  </Section>
+  <Section Name="OMRON">
+    <!--<Property Key="CONNECTION_STRING" Value="PORTID=2,PLC_ENCODING=utf-8,PEER_ADDRESS=192.168.1.104,CONNECTION_TYPE=Class3,HEARTBEAT_TIMER=5000,RECEIVE_TIME_LIMIT=5000,USE_ROUTE_PATH=False,ROUTE_PATH=2%192.168.1.104" Description="OMRON DRIVER TCP/IP 접속" />-->
+    <Property Key="CONNECTION_STRING" Value="PORTID=2,PLC_ENCODING=utf-8,PEER_ADDRESS=192.168.250.3,CONNECTION_TYPE=Class3,HEARTBEAT_TIMER=5000,RECEIVE_TIME_LIMIT=5000,USE_ROUTE_PATH=False,ROUTE_PATH=2%192.168.250.3" Description="OMRON DRIVER TCP/IP 접속" />
+  </Section>
+  <Section Name="TIME_OUT_VALUE">
+    <Property Key="T1_TIMEOUT" Value="4" Description="" />
+    <Property Key="T2_TIMEOUT" Value="2" Description="" />
+  </Section>
+  <Section Name="INLINE_MODE_VALUE">
+    <Property Key="UPSTREAM_INLINE" Value="True" Description="" />
+    <Property Key="DOWNSTREAM_INLINE" Value="True" Description="" />
+  </Section>
+  <Section Name="AUTO_RECIPE_VALUE">
+    <Property Key="AUTO_RECIPE" Value="True" Description="" />
+  </Section>
+  <Section Name="EXCHANGE_USE_VALUE">
+    <Property Key="EXCHANGE_USE" Value="True" Description="" />
+  </Section>
+  <Section Name="CURRENT_PPID_VALUE">
+    <Property Key="CURRENT_PPID" Value="E549B020M2" Description="" />
+    <Property Key="CURRENT_RECIPE" Value="1" Description="" />
+  </Section>
+  <Section Name="SENT_OUT_JOB_REPORT_TIME">
+    <Property Key="VALUE" Value="True" Description="" />
+  </Section>
+  <Section Name="RECEIVE_JOB_REPORT_TIME">
+    <Property Key="VALUE" Value="True" Description="" />
+  </Section>
+  <Section Name="RECEIVE_DATA">
+    <Property Key="COUNT" Value="3" Description="" />
+    <Property Key="CONTROL_NAME" Value="EPM01" Description="" />
+    <Property Key="RCV000" Value="559,791,0,1,YYY,YYY23,E546B010FN,1,G,,5,0,2,23,0,0,0,0,1,22222,22222,CA0520," Description="" />
+    <Property Key="RCV001" Value="0,0,0,0,,,,0,,,0,0,0,0,0,0,0,0,0,,,," Description="" />
+    <Property Key="RCV002" Value="" Description="" />
+  </Section>
+  <Section Name="CIM_HISTORY_DATA">
+    <Property Key="HISTORY_COUNT" Value="20" Description="" />
+  </Section>
+  <Section Name="MESSAGE_HISTORY">
+    <Property Key="0" Value="" Description="" />
+    <Property Key="1" Value="" Description="" />
+    <Property Key="2" Value="" Description="" />
+    <Property Key="3" Value="" Description="" />
+    <Property Key="4" Value="" Description="" />
+    <Property Key="5" Value="" Description="" />
+    <Property Key="6" Value="" Description="" />
+    <Property Key="7" Value="" Description="" />
+    <Property Key="8" Value="" Description="" />
+    <Property Key="9" Value="" Description="" />
+    <Property Key="10" Value="" Description="" />
+    <Property Key="11" Value="" Description="" />
+    <Property Key="12" Value="" Description="" />
+    <Property Key="13" Value="" Description="" />
+    <Property Key="14" Value="" Description="" />
+    <Property Key="15" Value="" Description="" />
+    <Property Key="16" Value="" Description="" />
+    <Property Key="17" Value="" Description="" />
+    <Property Key="18" Value="" Description="" />
+    <Property Key="19" Value="" Description="" />
+    <Property Key="20" Value="" Description="" />
+  </Section>
+  <Section Name="PPID_MAP_LIST_COUNT">
+    <Property Key="COUNT" Value="18" Description="" />
+  </Section>
+  <Section Name="PPID_MAP_LIST">
+    <Property Key="1" Value="E546B440M2_PMOS,722,,5/31/2017 10:48:22 AM,sweng,7T1CM2_PMOS" Description="" />
+    <Property Key="2" Value="E546B010FN,718,,5/31/2017 10:48:31 AM,sweng," Description="" />
+    <Property Key="3" Value="E546B440M2,712,,5/31/2017 10:48:43 AM,sweng," Description="" />
+    <Property Key="4" Value="pintest,220,,5/31/2017 10:51:10 AM,sweng," Description="" />
+    <Property Key="5" Value="E549B020M2,1,,6/3/2017 12:43:54 PM,admin," Description="" />
+    <Property Key="6" Value="E549B020FN,2,,6/6/2017 9:39:49 AM,sweng,3.5 Final" Description="" />
+    <Property Key="7" Value="E546B040FN,9,,6/28/2017 2:22:47 PM,admin," Description="" />
+    <Property Key="8" Value="E546B010M2,711,,6/28/2017 2:27:23 PM,admin,DOE Flexible 7T1C M2" Description="" />
+    <Property Key="9" Value="E546B440FN,719,,6/28/2017 2:28:13 PM,admin,DOE 7T1C Final" Description="" />
+    <Property Key="10" Value="E546B440FN_2T1C,219,,6/28/2017 2:28:52 PM,admin,DOE 2T1C Final" Description="" />
+    <Property Key="11" Value="E546B010FN_2T1C,218,,6/28/2017 2:29:45 PM,admin,DOE Flexible 2T1C Final" Description="" />
+    <Property Key="12" Value="E546B010M2_2T1C,211,,6/28/2017 2:30:24 PM,admin,DOE Flexible 2T1C M2" Description="" />
+    <Property Key="13" Value="E546B440M2_2T1C,212,,6/28/2017 2:31:29 PM,admin,DOE 2T1C M2" Description="" />
+    <Property Key="14" Value="L1INS,535,,7/13/2017 5:01:35 PM,admin,TEST Dummy" Description="" />
+    <Property Key="15" Value="E599B010M2,3,,7/20/2017 5:33:26 PM,admin,Flexible WQHD M2" Description="" />
+    <Property Key="16" Value="E549B020M2_ALL,15,,7/28/2017 4:23:00 PM,admin,3.5 m2 96 sites" Description="" />
+    <Property Key="17" Value="E599B010FN,4,,8/5/2017 3:11:56 PM,admin,Flexible WQHD FN" Description="" />
+    <Property Key="18" Value="E546H050FN,9,,9/8/2017 1:57:43 PM,admin,0.3T TP" Description="" />
+    <Property Key="19" Value="AAA,221,,9/25/2017 2:35:28 PM,sweng," Description="" />
+  </Section>
+  <Section Name="PROCESS_START_TIME">
+    <Property Key="0" Value="1/1/0001 12:00:00 AM" Description="" />
+    <Property Key="1" Value="9/25/2017 5:51:40 PM" Description="" />
+  </Section>
+  <Section Name="PROCESS_END_TIME">
+    <Property Key="0" Value="1/1/0001 12:00:00 AM" Description="" />
+    <Property Key="1" Value="9/25/2017 5:52:04 PM" Description="" />
+  </Section>
+</CustomProperties>

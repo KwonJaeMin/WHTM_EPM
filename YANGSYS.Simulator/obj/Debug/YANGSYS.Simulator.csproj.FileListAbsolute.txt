@@ -1,0 +1,106 @@
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.exe
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\Config.xml
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.exe
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Component.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Driver.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.File.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Properties.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Logger.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\Interop.ACTMULTILib.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\ScannerRemotingObject.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartDevice.dll
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Logger.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.File.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Properties.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Component.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Driver.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\ScannerRemotingObject.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartDevice.pdb
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDevice.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormMain.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormScenario.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\workspace\프로젝트.양전자 20161007\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\Config.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Component.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Driver.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.File.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Properties.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Logger.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\Interop.ACTMULTILib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\ScannerRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartDevice.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Logger.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.File.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Properties.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Component.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Driver.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\ScannerRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartDevice.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDataChange.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDevice.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormMain.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormScenario.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.Properties.Resources.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\YANGSYS CIM 20161009_0\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.exe
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.pdb
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\Config.xml
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.exe
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SmartPLCSimulator.pdb
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.dll
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.dll
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\SOFD.Global.pdb
+C:\YANGSYS CIM\YANGSYS.Simulator\bin\Debug\PlcRemotingObject.pdb
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormDevice.resources
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormMain.resources
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.FormScenario.resources
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\YANGSYS CIM\YANGSYS.Simulator\obj\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache

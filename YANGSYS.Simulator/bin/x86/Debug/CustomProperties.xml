@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomProperties>
+  <Section Name="SYSTEM">
+    <Property Key="SITE" Value="WHTM" Description="" />
+  </Section>
+  <Section Name="WHTM">
+    <Property Key="PPID_RECIPE" Value="1:1,2:3,3:5," Description="" />
+  </Section>
+</CustomProperties>

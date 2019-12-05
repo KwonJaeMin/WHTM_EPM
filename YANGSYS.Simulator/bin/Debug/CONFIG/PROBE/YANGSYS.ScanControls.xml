@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScanControls>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_ALARM_RESET" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_ALARM_SET" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_ALARM_SET_REQUEST_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_ALIVE_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_AUTO_MODE_CHANGE_EVENT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_BUZZER_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_CIM_MESSAGE_ON" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_COMMUNICATION" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_CURRENT_RECIPE_CHANGE" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_DEFECT_CODE_REPORT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_GLASS_DATA_SEND_ACK" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_GLASS_DATA_VALUE_FILE_REPORT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_GLASS_SCRAP" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_INITIALIZE_REQUEST" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_IONIZER" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_JOB_HOLD_EVENT_REPORT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_LOAD_COMPLETE_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_LOAD_ENABLE" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_LOAD_HAND_DOWN_COMPLETION_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_LOAD_REQUEST" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_LOST_GLASS_DATA_REQUEST" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_OXR_INFORMATION_REQUEST_DATA_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_OXR_INFORMATION_UPDATE" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_RECIPE_LIST_REQ_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_RECIPE_REPORT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_RECOVERY_GLASS_DATA_SEND_ACK" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_STAGE_GLASS_EXIST" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_STATE_CHANGE_EVENT" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_STATE_CHANGE_REQ_ACK" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_STATE_REQ_ACK" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_SVID_SEND" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_TRACKING_DATA" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_TRANSFER_STOP_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_UNLOAD_COMPLETE_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_UNLOAD_ENABLE" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_UNLOAD_HAND_UP_COMPLETION_REPLY" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_UNLOAD_REQUEST" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+  <ScanControl ModelName="EPM01" ControlName="EPM01" ControlAttribute="VI_USER_LOGIN" DeviceType="B" ScanArea="05A0" DataType="Boolean" Display="True" Monitoring ="True" Description=""></ScanControl>
+</ScanControls>

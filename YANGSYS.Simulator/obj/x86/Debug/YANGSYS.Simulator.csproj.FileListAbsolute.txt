@@ -1,0 +1,673 @@
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Component.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Driver.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.File.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Properties.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\Interop.ACTMULTILib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\ScannerRemotingObject.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SmartDevice.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.File.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Properties.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Component.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.Driver.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\ScannerRemotingObject.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SmartDevice.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161212\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161212\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20161220\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170106\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170107\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170109\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+F:\B10_PRG\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+F:\B10_PRG\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170110\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170111_1\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170112\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+G:\B10_PRG\YANGSYS CIM 20170113\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+F:\B10_PRG\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170114\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+G:\B10_PRG\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170116\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170117\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170118\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+G:\B10_PRG\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+C:\Yes_Project\CIM\YANGSYS CIM 20170118_CIM_Mode\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170119 - 복사본\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\Config.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\E2-2\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\M1\SIMULATOR_CONFIG.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\Controls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\PLCControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\CONFIG\PROBE\ScanControls.xml
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.exe
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SmartPLCSimulator.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.dll
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.Global.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.DataBase.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\SOFD.Logger.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\bin\x86\Debug\PlcRemotingObject.pdb
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\BOE\B10\10.Probe Station\10.소스\YANGSYS CIM 20170125\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDataChange.resources
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormDevice.resources
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormMain.resources
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.FormScenario.resources
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.Properties.Resources.resources
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\YANGSYS.Simulator.csproj.GenerateResource.Cache
+D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170327_New\YANGSYS.Simulator\obj\x86\Debug\SmartPLCSimulator.pdb

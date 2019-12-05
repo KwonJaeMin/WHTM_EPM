@@ -1,0 +1,17 @@
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\YANGSYS.ControlLib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\YANGSYS.ControlLib.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Component.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.DataBase.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.DataConvert.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.File.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Global.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Logger.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.DataConvert.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Component.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Logger.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.Global.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.DataBase.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\bin\Debug\SOFD.File.pdb
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\obj\Debug\ResolveAssemblyReference.cache
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\obj\Debug\YANGSYS.ControlLib.dll
+F:\workspace\프로젝트.양전자\YANGSYS CIM\YANGSYS.ControlLib\obj\Debug\YANGSYS.ControlLib.pdb

@@ -1,0 +1,3 @@
+2017-07-27 10:41:13.292	SYSTEM	개체 참조가 개체의 인스턴스로 설정되지 않았습니다.	   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170628\YANGSYS.CommIF\CommDrv.cs:줄 416
+2017-07-27 10:41:13.825	SYSTEM	전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다.	   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: YANGSYS.CommDrv.YangSysCommDrv.WaitMessage() 파일 D:\K_Project\천마\우한\10.소스\YANGSYS CIM_20170628\YANGSYS.CommIF\CommDrv.cs:줄 416

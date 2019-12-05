@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configs>
+  <LogConfig LogPath="C:\LOG\OGS" LogUseDay="30" CPUQuantity="20" ></LogConfig>
+  <UserConfig UserAccount="Adminstrator" UserPassword="1" ></UserConfig>
+  <SiteConfig SiteName="EPM01" ProjectName="EAS PROJECT" SystemMode="SimulationMode"></SiteConfig><!--SimulationMode/FABMode-->
+  <EtcConfig Title="BOE-EPM CIM" EqpID="AAXET01" PortCount="8" GLS_TRANSFER_TYPE="GLS" IS_DOUBLE_ROBOT="N" SPECIAL_TYPE="N" CT_TIMEOUT="45"></EtcConfig>
+  <DBConfig DBPath="" DBLogPath="" DBName ="" DBLogName=""></DBConfig>
+   <Logger>
+    <LogInfoConfig LogID="LOG1" LogKey="SYSTEM" LogName="EXCEPTION" FilePath="[LogPath]" FileExt="log"  DeletePeriod="1" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG2" LogKey="SYSTEM" LogName="UI" FilePath="[LogPath]" FileExt="log"  DeletePeriod="1" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG3" LogKey="SYSTEM" LogName="SYSTEM" FilePath="[LogPath]" FileExt="log"  DeletePeriod="1" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG4" LogKey="SYSTEM" LogName="MELSEC" FilePath="[LogPath]" FileExt="log"  DeletePeriod="1" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM_dd" FreeSpace="20"></LogInfoConfig>
+    <LogInfoConfig LogID="LOG5" LogKey="SYSTEM" LogName="HOST" FilePath="[LogPath]" FileExt="log"  DeletePeriod="1" DeletePeriodDateTimeInterval="Month" FileNamingRule="yyyyMMdd" FolderNamingRule="yyyyMM" FreeSpace="20"></LogInfoConfig>
+  </Logger>
+</Configs>
